@@ -12,6 +12,7 @@ dependencies = [
     "anthropic",
     "sentence-transformers",
     "structlog",
+    "python-dotenv>=1.2.3",
 ]
 
 [build-system]

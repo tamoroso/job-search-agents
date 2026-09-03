@@ -38,6 +38,8 @@ data/cv/
 
 # ── Modèles & caches lourds ──
 models/
+!db/models/
+!db/models/**
 .cache/
 *.onnx
 *.safetensors
