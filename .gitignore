@@ -37,12 +37,12 @@ data/cv/
 !docs/**/*.pdf
 
 # ── Modèles & caches lourds ──
-models/
-!db/models/
-!db/models/**
-.cache/
-*.onnx
-*.safetensors
+# models/
+# !db/models/
+# !db/models/**
+# .cache/
+# *.onnx
+# *.safetensors
 
 # ── Postgres / Docker ──
 pgdata/
