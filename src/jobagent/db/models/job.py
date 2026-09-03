@@ -1,5 +1,5 @@
-from models.base import Base, UUIDPk, Timestamp, Embedding
-from sqlachemy.orm import Mapped, mapped_column
+from jobagent.db.base import Base, UUIDPk, Timestamp, Embedding
+from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import UniqueConstraint, ForeignKey, Numeric, func, SmallInteger, Float, Index
 import uuid
 from decimal import Decimal
@@ -21,7 +21,7 @@ class company(UUIDPk, Base):
     last_updated : Mapped[Timestamp | None]
 
     __table_args__ = (
-        UniqueConstraint("ats_type", "ats_slug", name="uq_company_ats")
+        UniqueConstraint("ats_type", "ats_slug", name="uq_company_ats"),
     )
 
 class job_offer(UUIDPk, Base):
@@ -60,27 +60,27 @@ class job_offer(UUIDPk, Base):
             "ix_job_offer_summary_embedding_hnsw",
             "summary_embedding",
             postgresql_using="hnsw",
-            postgresql_with={"summary_embedding": "vector_cosine_ops"},
+            postgresql_ops={"summary_embedding": "vector_cosine_ops"},
             postgresql_with={"m": 16, "ef_construction": 64}
-        )
+        ),
     )
 
 class job_requirement (UUIDPk, Base):
     __tablename__ = "job_requirement"
 
-    offer_id : Mapped[uuid.UUID] = mapped_column(ForeignKey("job_offer.id"), ondelete="CASCADE")
+    offer_id : Mapped[uuid.UUID] = mapped_column(ForeignKey("job_offer.id", ondelete="CASCADE"))
     text : Mapped[str]
     kind : Mapped[str | None] # -- must_have | nice_to_have | responsibility | context
     category : Mapped[str | None] # -- tech | domain | soft | experience | education
     weight : Mapped[float | None] = mapped_column(Float, default=1.0)
-    embedding : Mapped[Embedding | None]
+    requirement_embedding : Mapped[Embedding | None]
 
     __table_args__ = (
         Index(
             "ix_job_requirement_embedding_hnsw",
             "requirement_embedding",
             postgresql_using="hnsw",
-            postgresql_with={"requirement_embedding": "vector_cosine_ops"},
+            postgresql_ops={"requirement_embedding": "vector_cosine_ops"},
             postgresql_with={"m": 16, "ef_construction": 64}
-        )
+        ),
     )

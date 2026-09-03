@@ -1,8 +1,8 @@
-from models.base import Base, UUIDPk, Timestamp
-from sqlachemy.orm import Mapped, mapped_column
+from jobagent.db.base import Base, UUIDPk, Timestamp
+from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import  Integer, Numeric, func
 from decimal import Decimal
-import uuid
+
 
 class llm_call(UUIDPk, Base):
     __tablename__ = "llm_call"

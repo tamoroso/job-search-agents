@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from jobagent.db.base import Base
+import jobagent.db.models # noqa: F401
 
 from sqlalchemy import engine_from_config
 from sqlalchemy import pool

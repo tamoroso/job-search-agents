@@ -1,6 +1,7 @@
-from models.base import Base, UUIDPk, Timestamp
-from sqlachemy.orm import Mapped, mapped_column
+from jobagent.db.base import Base, UUIDPk, Timestamp
+from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import ForeignKey, SmallInteger
+from sqlalchemy.dialects.postgresql import ARRAY, UUID as PgUUID
 import uuid
 
 
@@ -32,7 +33,7 @@ class document (UUIDPk, Base):
     type : Mapped[str | None] # -- cv|cover_letter|outreach
     content : Mapped[str | None]
     version : Mapped[int | None] = mapped_column(SmallInteger)
-    proof_points_id : Mapped[list[uuid.UUID] | None] = mapped_column(ForeignKey("proof_point.id"))
+    proof_point_ids : Mapped[list[uuid.UUID] | None] = mapped_column(ARRAY(PgUUID(as_uuid=True)))
     unanchored_claims : Mapped[list[str] | None]
     generated_by : Mapped[str | None] # -- user|ai
     approved_by_human : Mapped[bool | None] = mapped_column(default=False, server_default="false")
