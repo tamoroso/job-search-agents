@@ -1,5 +1,5 @@
 from sqlalchemy import func,  ForeignKey, SmallInteger
-from sqlalchemy.orm import Mapped, mapped_column, relationship
+from sqlalchemy.orm import Mapped, mapped_column
 from jobagent.db.base import Base, UUIDPk, Timestamp, Embedding
 import uuid
 from typing import Any
@@ -46,7 +46,6 @@ class proof_point (UUIDPk, Base):
     embedding : Mapped[Embedding | None]
     is_verified : Mapped[bool] = mapped_column(default=False, server_default="false")
 
-    profile: Mapped["Profile"] = relationship(back_populates="proof_points") # type: ignore
 
 
 
