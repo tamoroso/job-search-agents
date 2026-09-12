@@ -4,6 +4,7 @@ from jobagent.prompts.schemas import JobAnalysis, FitAssessment
 
 @dataclass(frozen=True)
 class Prompt:
+    model_tier : str
     agent : str
     version : str
     hash : str

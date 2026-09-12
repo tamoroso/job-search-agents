@@ -1,12 +1,14 @@
+import uuid
 from jobagent.db.base import Base, UUIDPk, Timestamp
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import  Integer, Numeric, func
 from decimal import Decimal
 
 
-class llm_call(UUIDPk, Base):
+class LLMCall(UUIDPk, Base):
     __tablename__ = "llm_call"
 
+    trace_id : Mapped[uuid.UUID | None]
     agent : Mapped[str | None]
     prompt_version : Mapped[str | None]
     model : Mapped[str | None]
