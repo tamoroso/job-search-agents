@@ -23,3 +23,9 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = ["pytest", "pytest-vcr", "ruff", "ipykernel"]
+
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["live: appelle réellement l'API (coûte des tokens)"]
+addopts = "-m 'not live'"

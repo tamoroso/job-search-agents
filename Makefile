@@ -9,3 +9,9 @@ db-shell:
 
 reset:
 	docker compose down -v && docker compose up -d
+
+test : 
+	uv run pytest
+
+test-live:
+	uv run pytest -m live

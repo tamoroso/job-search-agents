@@ -1,8 +1,8 @@
 from functools import lru_cache
 from anthropic import Anthropic
 from jobagent.agents.config import MODELS
-from jobagent.db.base import session_scope
-from jobagent.db.models import LLMCall
+from jobagent.db.session import session_scope
+from jobagent.db.models.observability import LLMCall
 import time
 
 class LLMCallError(Exception) : 
@@ -12,7 +12,7 @@ def compute_cost(model_tier, input_tokens, output_tokens) :
     model_data = MODELS[model_tier]
     price_in = model_data.price_in
     price_out = model_data.price_out
-    return (price_in * 10**6 / input_tokens) + (price_out * 10**6 / output_tokens) if input_tokens != None and output_tokens != None else None
+    return (input_tokens * price_in / 10**6 ) + (output_tokens * price_out / 10**6 ) if input_tokens != None and output_tokens != None else None
 
 @lru_cache
 def get_client() -> Anthropic : 
@@ -34,7 +34,7 @@ def call_llm(prompt, trace_id=None):
                     "content" : prompt.body
                 }
             ],
-            output_format = prompt.output_schema
+            output_format = prompt.output_schema,
         )
         input_tokens = response.usage.input_tokens
         output_tokens = response.usage.output_tokens
@@ -45,6 +45,7 @@ def call_llm(prompt, trace_id=None):
             with session_scope() as session : 
                 session.add(
                     LLMCall(
+                    trace_id = trace_id,
                     agent = prompt.agent,
                     prompt_version = prompt.version,
                     model = model,
@@ -52,7 +53,7 @@ def call_llm(prompt, trace_id=None):
                     output_tokens = output_tokens,
                     cost_usd = compute_cost(model_tier, input_tokens, output_tokens),
                     latency_ms = time.perf_counter() - start,
-                    success = success
+                    success = success,
                 ))
         except Exception as e : 
             raise LLMCallError(f"unable to create LLMCall entry : {str(e)}") from e
