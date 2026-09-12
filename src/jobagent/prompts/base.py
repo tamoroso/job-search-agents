@@ -1,4 +1,4 @@
-from functools import dataclass
+from dataclasses import dataclass
 from jinja2 import Template
 from jobagent.prompts.schemas import JobAnalysis, FitAssessment
 
