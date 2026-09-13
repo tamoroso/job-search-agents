@@ -1,0 +1,331 @@
+# Liste d'entreprises cibles — Job Agent, session A2
+#
+# Usage : entrée du résolveur de slugs ATS (B1). Aucun slug n'est renseigné
+# ici volontairement : les slugs se résolvent, ils ne se devinent pas.
+#
+# Champs :
+#   name    : raison sociale usuelle
+#   domain  : domaine principal, point d'entrée du résolveur
+#   country : pays du siège (≠ lieu des postes)
+#   note    : uniquement quand il y a un piège connu
+#
+# Après B2, ajouter par entreprise : ats_type, ats_slug, resolved_at,
+# et un statut explicite (resolved | no_public_feed | dead | out_of_scope).
+# Ne jamais supprimer une ligne non résolue : l'absence de feed est une
+# information, et une ligne supprimée sera re-testée au prochain run.
+
+segments:
+
+  # ────────────────────────────────────────────────────────────────
+  # 1. Modèles de fondation & infrastructure IA — France
+  # Rendement ATS attendu : élevé (écosystème Greenhouse/Ashby/Lever)
+  # ────────────────────────────────────────────────────────────────
+  llm_infra_fr:
+    - {name: Mistral AI, domain: mistral.ai, country: FR}
+    - {name: Hugging Face, domain: huggingface.co, country: FR, note: "remote-first, siège US mais forte base FR"}
+    - {name: Emilabs, domain: null, country: FR, note: "fondée par Yann LeCun, levée mars 2026 — domaine à confirmer"}
+    - {name: Kyutai, domain: kyutai.org, country: FR, note: "laboratoire à but non lucratif, recrutement hors ATS classique"}
+    - {name: LightOn, domain: lighton.ai, country: FR}
+    - {name: Dust, domain: dust.tt, country: FR}
+    - {name: H, domain: h.company, country: FR}
+    - {name: Poolside, domain: poolside.ai, country: FR, note: "R&D à Paris, entité US"}
+    - {name: Adaptive ML, domain: adaptive-ml.com, country: FR}
+    - {name: Giskard, domain: giskard.ai, country: FR}
+    - {name: Probabl, domain: probabl.ai, country: FR, note: "structure derrière scikit-learn"}
+    - {name: Zama, domain: zama.ai, country: FR}
+    - {name: Kili Technology, domain: kili-technology.com, country: FR}
+    - {name: PhotoRoom, domain: photoroom.com, country: FR}
+    - {name: Sinequa, domain: sinequa.com, country: FR}
+    - {name: Golem.ai, domain: golem.ai, country: FR}
+    - {name: Qwant, domain: qwant.com, country: FR}
+
+  # ────────────────────────────────────────────────────────────────
+  # 2. IA verticale — santé, assurance, industrie, défense (France)
+  # Rendement ATS attendu : moyen à élevé
+  # ────────────────────────────────────────────────────────────────
+  ia_verticale_fr:
+    - {name: Owkin, domain: owkin.com, country: FR}
+    - {name: Bioptimus, domain: bioptimus.com, country: FR}
+    - {name: Aqemia, domain: aqemia.com, country: FR}
+    - {name: Iktos, domain: iktos.ai, country: FR}
+    - {name: Gleamer, domain: gleamer.ai, country: FR}
+    - {name: Incepto, domain: incepto-medical.com, country: FR}
+    - {name: Therapixel, domain: therapixel.com, country: FR}
+    - {name: Raidium, domain: raidium.fr, country: FR}
+    - {name: Nabla, domain: nabla.com, country: FR}
+    - {name: Dental Monitoring, domain: dental-monitoring.com, country: FR}
+    - {name: Withings, domain: withings.com, country: FR}
+    - {name: Shift Technology, domain: shift-technology.com, country: FR}
+    - {name: Akur8, domain: akur8.com, country: FR}
+    - {name: Zelros, domain: zelros.com, country: FR}
+    - {name: Descartes Underwriting, domain: descartesunderwriting.com, country: FR}
+    - {name: Deepki, domain: deepki.com, country: FR}
+    - {name: Kayrros, domain: kayrros.com, country: FR}
+    - {name: Safran.AI, domain: safran.ai, country: FR, note: "ex-Preligens — peut basculer sur l'ATS groupe Safran"}
+    - {name: Helsing, domain: helsing.ai, country: DE, note: "bureau Paris, défense — clearance possible"}
+    - {name: Exotec, domain: exotec.com, country: FR}
+    - {name: Wandercraft, domain: wandercraft.eu, country: FR}
+    - {name: Pasqal, domain: pasqal.com, country: FR}
+    - {name: Quandela, domain: quandela.com, country: FR}
+    - {name: Alice & Bob, domain: alice-bob.com, country: FR}
+
+  # ────────────────────────────────────────────────────────────────
+  # 3. Scale-ups tech FR avec équipe data/ML constituée
+  # Rendement ATS attendu : élevé — cœur de cible du MVP
+  # ────────────────────────────────────────────────────────────────
+  scaleups_fr:
+    - {name: Doctolib, domain: doctolib.fr, country: FR}
+    - {name: Alan, domain: alan.com, country: FR}
+    - {name: Qonto, domain: qonto.com, country: FR}
+    - {name: Pennylane, domain: pennylane.com, country: FR}
+    - {name: Agicap, domain: agicap.com, country: FR}
+    - {name: Spendesk, domain: spendesk.com, country: FR}
+    - {name: Payfit, domain: payfit.com, country: FR}
+    - {name: Swile, domain: swile.co, country: FR}
+    - {name: Shine, domain: shine.fr, country: FR}
+    - {name: Younited, domain: younited-credit.com, country: FR}
+    - {name: Ledger, domain: ledger.com, country: FR}
+    - {name: Sorare, domain: sorare.com, country: FR}
+    - {name: BlaBlaCar, domain: blablacar.com, country: FR}
+    - {name: Back Market, domain: backmarket.com, country: FR}
+    - {name: ManoMano, domain: manomano.fr, country: FR}
+    - {name: Vestiaire Collective, domain: vestiairecollective.com, country: FR}
+    - {name: Veepee, domain: veepee.com, country: FR}
+    - {name: leboncoin, domain: leboncoin.fr, country: FR, note: "groupe Adevinta — ATS possiblement mutualisé"}
+    - {name: Ankorstore, domain: ankorstore.com, country: FR}
+    - {name: Mirakl, domain: mirakl.com, country: FR}
+    - {name: Contentsquare, domain: contentsquare.com, country: FR}
+    - {name: Algolia, domain: algolia.com, country: FR}
+    - {name: Datadome, domain: datadome.co, country: FR}
+    - {name: Aircall, domain: aircall.io, country: FR}
+    - {name: Front, domain: front.com, country: FR}
+    - {name: Pigment, domain: pigment.com, country: FR}
+    - {name: 360Learning, domain: 360learning.com, country: FR}
+    - {name: Yousign, domain: yousign.com, country: FR}
+    - {name: Partoo, domain: partoo.co, country: FR}
+    - {name: Malt, domain: malt.com, country: FR}
+    - {name: Welcome to the Jungle, domain: welcometothejungle.com, country: FR}
+    - {name: Ivalua, domain: ivalua.com, country: FR}
+    - {name: Voodoo, domain: voodoo.io, country: FR}
+    - {name: Jellysmack, domain: jellysmack.com, country: FR}
+    - {name: Deezer, domain: deezer.com, country: FR}
+    - {name: Dailymotion, domain: dailymotion.com, country: FR}
+    - {name: Believe, domain: believe.com, country: FR}
+    - {name: Criteo, domain: criteo.com, country: FR}
+    - {name: Dataiku, domain: dataiku.com, country: FR}
+    - {name: Saagie, domain: saagie.com, country: FR}
+    - {name: OVHcloud, domain: ovhcloud.com, country: FR}
+    - {name: Scaleway, domain: scaleway.com, country: FR}
+    - {name: Clever Cloud, domain: clever-cloud.com, country: FR}
+    - {name: Ubisoft, domain: ubisoft.com, country: FR, note: "ATS propriétaire probable"}
+
+  # ────────────────────────────────────────────────────────────────
+  # 4. Conseil & ESN spécialisés data/IA — France
+  # Rendement ATS attendu : faible (Teamtailor, WTTJ, portails maison)
+  # Volume d'offres élevé mais qualité variable — surveiller le bruit
+  # ────────────────────────────────────────────────────────────────
+  conseil_data_fr:
+    - {name: Artefact, domain: artefact.com, country: FR}
+    - {name: Sicara, domain: sicara.fr, country: FR}
+    - {name: Theodo, domain: theodo.fr, country: FR}
+    - {name: Ekimetrics, domain: ekimetrics.com, country: FR}
+    - {name: OCTO Technology, domain: octo.com, country: FR}
+    - {name: La Javaness, domain: lajavaness.com, country: FR}
+    - {name: Numberly, domain: numberly.com, country: FR}
+    - {name: fifty-five, domain: fifty-five.com, country: FR}
+    - {name: Zenika, domain: zenika.com, country: FR}
+    - {name: Ippon Technologies, domain: ippon.tech, country: FR}
+    - {name: Onepoint, domain: groupeonepoint.com, country: FR}
+    - {name: Devoteam, domain: devoteam.com, country: FR}
+
+  # ────────────────────────────────────────────────────────────────
+  # 5. Grands comptes FR avec équipes ML réelles
+  # Rendement ATS attendu : très faible (Workday, SuccessFactors, Taleo)
+  # À résoudre quand même : le résultat négatif est une donnée utile
+  # ────────────────────────────────────────────────────────────────
+  grands_comptes_fr:
+    - {name: Orange, domain: orange.com, country: FR}
+    - {name: Thales, domain: thalesgroup.com, country: FR}
+    - {name: Airbus, domain: airbus.com, country: FR}
+    - {name: Safran, domain: safran-group.com, country: FR}
+    - {name: Dassault Systèmes, domain: 3ds.com, country: FR}
+    - {name: Renault Group, domain: renaultgroup.com, country: FR}
+    - {name: Stellantis, domain: stellantis.com, country: FR}
+    - {name: Michelin, domain: michelin.com, country: FR}
+    - {name: TotalEnergies, domain: totalenergies.com, country: FR}
+    - {name: EDF, domain: edf.fr, country: FR}
+    - {name: SNCF, domain: sncf.com, country: FR}
+    - {name: BNP Paribas, domain: group.bnpparibas, country: FR}
+    - {name: Société Générale, domain: societegenerale.com, country: FR}
+    - {name: Crédit Agricole, domain: credit-agricole.com, country: FR}
+    - {name: AXA, domain: axa.com, country: FR}
+    - {name: Capgemini, domain: capgemini.com, country: FR}
+    - {name: Sopra Steria, domain: soprasteria.com, country: FR}
+    - {name: L'Oréal, domain: loreal.com, country: FR}
+    - {name: Carrefour, domain: carrefour.com, country: FR}
+    - {name: Decathlon, domain: decathlon.com, country: FR}
+    - {name: Vinci, domain: vinci.com, country: FR}
+    - {name: Inria, domain: inria.fr, country: FR, note: "portail public dédié, hors ATS commercial"}
+
+  # ────────────────────────────────────────────────────────────────
+  # 6. IA & data — reste de l'Europe
+  # Rendement ATS attendu : élevé
+  # ────────────────────────────────────────────────────────────────
+  ia_eu:
+    - {name: DeepL, domain: deepl.com, country: DE}
+    - {name: Aleph Alpha, domain: aleph-alpha.com, country: DE}
+    - {name: Black Forest Labs, domain: bfl.ai, country: DE}
+    - {name: Parloa, domain: parloa.com, country: DE}
+    - {name: Qdrant, domain: qdrant.tech, country: DE}
+    - {name: Weaviate, domain: weaviate.io, country: NL}
+    - {name: Neptune.ai, domain: neptune.ai, country: PL}
+    - {name: ElevenLabs, domain: elevenlabs.io, country: UK}
+    - {name: Synthesia, domain: synthesia.io, country: UK}
+    - {name: Stability AI, domain: stability.ai, country: UK}
+    - {name: Wayve, domain: wayve.ai, country: UK}
+    - {name: PolyAI, domain: poly.ai, country: UK}
+    - {name: Tractable, domain: tractable.ai, country: UK}
+    - {name: Faculty, domain: faculty.ai, country: UK}
+    - {name: Quantexa, domain: quantexa.com, country: UK}
+    - {name: Speechmatics, domain: speechmatics.com, country: UK}
+    - {name: Graphcore, domain: graphcore.ai, country: UK}
+    - {name: Cohere, domain: cohere.com, country: CA, note: "recrute en Europe"}
+
+  # ────────────────────────────────────────────────────────────────
+  # 7. Scale-ups EU avec équipe data mûre
+  # Rendement ATS attendu : élevé
+  # ────────────────────────────────────────────────────────────────
+  scaleups_eu:
+    - {name: Spotify, domain: spotify.com, country: SE}
+    - {name: Klarna, domain: klarna.com, country: SE}
+    - {name: Booking.com, domain: booking.com, country: NL}
+    - {name: Adyen, domain: adyen.com, country: NL}
+    - {name: Mollie, domain: mollie.com, country: NL}
+    - {name: Picnic, domain: picnic.app, country: NL}
+    - {name: Miro, domain: miro.com, country: NL}
+    - {name: Zalando, domain: zalando.com, country: DE}
+    - {name: Delivery Hero, domain: deliveryhero.com, country: DE}
+    - {name: HelloFresh, domain: hellofresh.com, country: DE}
+    - {name: N26, domain: n26.com, country: DE}
+    - {name: Trade Republic, domain: traderepublic.com, country: DE}
+    - {name: Celonis, domain: celonis.com, country: DE}
+    - {name: Personio, domain: personio.com, country: DE}
+    - {name: SumUp, domain: sumup.com, country: DE}
+    - {name: Wise, domain: wise.com, country: UK}
+    - {name: Revolut, domain: revolut.com, country: UK}
+    - {name: Monzo, domain: monzo.com, country: UK}
+    - {name: Checkout.com, domain: checkout.com, country: UK}
+    - {name: Glovo, domain: glovoapp.com, country: ES}
+    - {name: Factorial, domain: factorialhr.com, country: ES}
+    - {name: Typeform, domain: typeform.com, country: ES}
+    - {name: Seedtag, domain: seedtag.com, country: ES}
+    - {name: Preply, domain: preply.com, country: UA}
+    - {name: Bolt, domain: bolt.eu, country: EE}
+    - {name: Veriff, domain: veriff.com, country: EE}
+    - {name: Wolt, domain: wolt.com, country: FI}
+
+  # ────────────────────────────────────────────────────────────────
+  # 8. Remote-first, tous pays
+  # Rendement ATS attendu : élevé. Segment décisif si le périmètre
+  # retenu est remote EU plutôt que France seule.
+  # ────────────────────────────────────────────────────────────────
+  remote_first:
+    - {name: GitLab, domain: gitlab.com, country: US}
+    - {name: Automattic, domain: automattic.com, country: US}
+    - {name: Canonical, domain: canonical.com, country: UK}
+    - {name: Elastic, domain: elastic.co, country: NL}
+    - {name: Grafana Labs, domain: grafana.com, country: US}
+    - {name: HashiCorp, domain: hashicorp.com, country: US}
+    - {name: Sourcegraph, domain: sourcegraph.com, country: US}
+    - {name: Remote, domain: remote.com, country: NL}
+    - {name: Deel, domain: deel.com, country: US}
+    - {name: Doist, domain: doist.com, country: PT}
+    - {name: dbt Labs, domain: getdbt.com, country: US}
+    - {name: Weights & Biases, domain: wandb.ai, country: US}
+    - {name: Datadog, domain: datadoghq.com, country: US, note: "bureau Paris"}
+    - {name: Databricks, domain: databricks.com, country: US, note: "bureau Paris"}
+    - {name: Snowflake, domain: snowflake.com, country: US}
+
+  # ────────────────────────────────────────────────────────────────
+  # 9. Pharma & santé — grands groupes
+  # Rendement ATS attendu : très faible (Workday, SuccessFactors, Taleo)
+  # Équipes data science et bioinformatique importantes, mais postes
+  # souvent rattachés à un site précis — vérifier la politique remote.
+  # ────────────────────────────────────────────────────────────────
+  pharma_grands_comptes:
+    - {name: Sanofi, domain: sanofi.com, country: FR}
+    - {name: Servier, domain: servier.com, country: FR}
+    - {name: Ipsen, domain: ipsen.com, country: FR}
+    - {name: Pierre Fabre, domain: pierre-fabre.com, country: FR}
+    - {name: bioMérieux, domain: biomerieux.com, country: FR}
+    - {name: Guerbet, domain: guerbet.com, country: FR, note: "imagerie — croisement direct avec ton profil vision"}
+    - {name: LFB, domain: groupe-lfb.com, country: FR}
+    - {name: EUROAPI, domain: euroapi.com, country: FR}
+    - {name: Seqens, domain: seqens.com, country: FR}
+    - {name: Urgo, domain: urgo.com, country: FR}
+    - {name: Virbac, domain: virbac.com, country: FR}
+    - {name: Vetoquinol, domain: vetoquinol.com, country: FR}
+    - {name: Galderma, domain: galderma.com, country: CH, note: "R&D à Sophia Antipolis"}
+    - {name: Sartorius Stedim Biotech, domain: sartorius.com, country: DE, note: "sites FR à Aubagne et Lourdes"}
+    - {name: Roche, domain: roche.com, country: CH}
+    - {name: Novartis, domain: novartis.com, country: CH}
+    - {name: Sandoz, domain: sandoz.com, country: CH}
+    - {name: Lonza, domain: lonza.com, country: CH}
+    - {name: Ferring, domain: ferring.com, country: CH}
+    - {name: Bayer, domain: bayer.com, country: DE}
+    - {name: Boehringer Ingelheim, domain: boehringer-ingelheim.com, country: DE}
+    - {name: Merck KGaA, domain: merckgroup.com, country: DE}
+    - {name: Novo Nordisk, domain: novonordisk.com, country: DK}
+    - {name: UCB, domain: ucb.com, country: BE}
+    - {name: GSK, domain: gsk.com, country: UK}
+    - {name: AstraZeneca, domain: astrazeneca.com, country: UK}
+    - {name: Pfizer, domain: pfizer.com, country: US}
+    - {name: MSD, domain: msd.com, country: US}
+    - {name: Johnson & Johnson, domain: jnj.com, country: US}
+    - {name: Takeda, domain: takeda.com, country: JP}
+
+  # ────────────────────────────────────────────────────────────────
+  # 10. Biotech, techbio & healthtech — startups et scale-ups
+  # Rendement ATS attendu : élevé (Greenhouse/Lever/Ashby dominants)
+  # Sous-ensemble « IA pour le médicament » déjà présent au segment 2 :
+  # Owkin, Bioptimus, Aqemia, Iktos. Ne pas dupliquer à la résolution.
+  # ────────────────────────────────────────────────────────────────
+  biotech_healthtech:
+    # — ML au cœur du produit, meilleur fit technique
+    - {name: Isomorphic Labs, domain: isomorphiclabs.com, country: UK}
+    - {name: InstaDeep, domain: instadeep.com, country: UK, note: "groupe BioNTech, bureau Paris"}
+    - {name: Cradle Bio, domain: cradle.bio, country: NL}
+    - {name: BenevolentAI, domain: benevolent.com, country: UK}
+    - {name: Recursion, domain: recursion.com, country: US, note: "a absorbé Exscientia"}
+    - {name: SOPHiA GENETICS, domain: sophiagenetics.com, country: CH, note: "site FR"}
+    - {name: Basecamp Research, domain: basecamp-research.com, country: UK}
+    - {name: LabGenius, domain: labgeni.us, country: UK}
+    - {name: Ochre Bio, domain: ochre-bio.com, country: UK}
+    # — biotech FR
+    - {name: DNA Script, domain: dnascript.com, country: FR}
+    - {name: Abolis Biotechnologies, domain: abolis.fr, country: FR}
+    - {name: Eligo Bioscience, domain: eligo.bio, country: FR}
+    - {name: Enterome, domain: enterome.com, country: FR}
+    - {name: Cellectis, domain: cellectis.com, country: FR}
+    - {name: Nanobiotix, domain: nanobiotix.com, country: FR}
+    - {name: Sensorion, domain: sensorion.com, country: FR}
+    - {name: GenSight Biologics, domain: gensight-biologics.com, country: FR}
+    - {name: Stilla Technologies, domain: stilla.com, country: FR}
+    - {name: Depixus, domain: depixus.com, country: FR}
+    - {name: Tissium, domain: tissium.com, country: FR}
+    - {name: Egle Therapeutics, domain: egle-tx.com, country: FR}
+    - {name: Alderaan Biotechnology, domain: alderaan-biotech.com, country: FR}
+    # — healthtech & dispositifs médicaux FR
+    - {name: Volta Medical, domain: voltamedical.com, country: FR}
+    - {name: Implicity, domain: implicity.com, country: FR}
+    - {name: Synapse Medicine, domain: synapse-medicine.com, country: FR}
+    - {name: Lifen, domain: lifen.health, country: FR}
+    - {name: Quantum Surgical, domain: quantumsurgical.com, country: FR}
+    - {name: Moon Surgical, domain: moonsurgical.com, country: FR}
+    - {name: Resilience, domain: resilience.care, country: FR}
+    # — biotech EU
+    - {name: BioNTech, domain: biontech.com, country: DE}
+    - {name: CureVac, domain: curevac.com, country: DE}
+    - {name: Evotec, domain: evotec.com, country: DE}
+    - {name: Nuclera, domain: nuclera.com, country: UK}
+    - {name: bit.bio, domain: bit.bio, country: UK}

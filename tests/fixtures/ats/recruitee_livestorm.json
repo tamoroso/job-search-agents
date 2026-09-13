@@ -1,0 +1,340 @@
+[
+  {
+    "position": 276,
+    "state_name": "Île-de-France",
+    "education_code": "bachelor_degree",
+    "locations_question_required": true,
+    "state_code": "IDF",
+    "guid": "4ccfp",
+    "options_cv": "required",
+    "title": "Account Executive Enterprise",
+    "on_site": false,
+    "locations_question_type": "multiple_choice",
+    "company_name": "Livestorm",
+    "postal_code": null,
+    "city": "Paris",
+    "options_phone": "required",
+    "sharing_image": null,
+    "careers_apply_url": "https://jobs.livestorm.co/o/account-executive-enterprise-2/c/new",
+    "max_hours": 39,
+    "sharing_description": "ABOUT LIVESTORMLivestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from",
+    "close_at": null,
+    "country": "France",
+    "slug": "account-executive-enterprise-2",
+    "max_hours_per_week": "39",
+    "experience_code": "experienced",
+    "country_code": "FR",
+    "salary": {
+      "max": "80000",
+      "min": "60000",
+      "period": "year",
+      "currency": "EUR"
+    },
+    "category_code": "sales",
+    "created_at": "2026-05-28 13:33:13 UTC",
+    "options_title": "off",
+    "translations": {
+      "en": {
+        "description": "<p><strong>ABOUT LIVESTORM</strong></p><p>Livestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and analyze online events. Livestorm is built with ease of use in mind. We serve companies of all sizes, from startups to Fortune 500s. Brands like Shopify, Honda, Spendesk, Front and Revolut trust Livestorm for premium video engagement during their online events.</p><p><br></p><p>Here are our core values:</p><ul><li><p><strong>Stay curious:</strong> Be interested in the world around you.</p></li><li><p><strong>Remain humble:</strong> Keep learning and keep your ego in check.</p></li><li><p><strong>Be resourceful:</strong> Go that extra mile in the most efficient way.</p></li><li><p><strong>Own it:</strong> Take pride in what you do, own your wins, and fails.</p></li><li><p><strong>Be transparent:</strong> Sharing knowledge, learnings, feedback, and mistakes.</p></li></ul><p><br></p><p><strong>MISSION</strong></p><p>Livestorm sales team is a team of entrepreneurial and driven sales professionals. They are playing a key role in the expansion of Livestorm as we establish ourselves as a market leader in the video communication market, leveraging Livestorm's existing customer references, marketing programs, turning leads into long-lasting partnerships.</p><p><br></p><p>Account Executives are responsible for identifying, segmenting, engaging, and converting qualified <strong>Mid-Market and Enterprise prospects</strong> into paying customers according to an annual quota.</p><p><br></p><p>You will report to the Head of New Business, and will closely collaborate with all our teams (Marketing, Sales, Customer Care, Product and Finance) to drive maximum value and success with new Livestorm customers.</p><p><br></p><p>A successful Account Executive will be a skilled communicator and presenter who can find the best fit between client and product.</p><p><strong><br></strong></p><p><strong>IN THIS ROLE, YOU WILL</strong></p><ul><li><p>Qualify inbound marketing source leads (MQLs) coming from <strong>Mid-Market &amp; Enterprise prospects</strong> and turn them, if qualified, into opportunities and closed contracts</p></li><li><p>Focus your <strong>outbound</strong> efforts on the Enterprise segment (with a <strong>focus on the Finance, Healthcare &amp; Tech industries</strong>) and develop / execute sales strategies and tactics to generate pipeline, drive sales opportunities and deliver repeatable and predictable bookings</p></li><li><p>Work on the <strong>NEMEA (Nordics &amp; UK) and US market</strong> (native speakers are preferred for this role / previous sales experience in these regions is a big plus). </p></li><li><p>Use of a variety of channels to identify new prospects and close new deals such as social media, internet, web-based tools &amp; outbound calling</p></li><li><p>Manage effectively all CRM activity relating to your accounts (Salesforce) and all the tech stack of an AE at Livestorm (SalesNav, Salesloft, Modjo, Chili Piper, Notion &amp; more)</p></li><li><p>Pro-actively work with other teams (Account Management, Growth &amp; Marketing, Customer Success, etc.)</p></li><li><p>Provide clients’ feedback, especially on product, in order for Livestorm to adjust and prioritize its product roadmap.</p></li></ul>",
+        "title": "Account Executive Enterprise",
+        "highlight": null,
+        "requirements": "<p><em>At Livestorm, we believe that diversity's got talent! We are committed to building an inclusive company culture in which a diverse mix of talented people will feel proud to join and engage. Our goal is to ensure that every Stormie feels valued and has the opportunity to thrive. Ready to apply? We are ready to meet you! All applicants will be considered for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age or any other characteristic protected by applicable law.</em></p><p><br></p><p><strong>JOB REQUIREMENTS&nbsp;</strong></p><ul><li><p><strong>Experienced:</strong> You have extensive experience (+3 years minimum) of successfully selling Software/SaaS license agreements into <strong>Enterprise / Large accounts in France</strong> and abroad across a variety of industries (expertise in the Finance &amp; Healthcare industries is a plus)</p></li><li><p><strong>Industry Knowledge:</strong> A good understanding of selling video communication platform would be ideal however, a background in selling SaaS and closing 6/7 figure deals is more important</p></li><li><p><strong>Overachiever:</strong> You have consistently achieved and/or exceeded your sales goals across your geographic territory and have a track record in closing 6/7 figure contracts - You are results oriented</p></li><li><p><strong>Outbound Mindset:</strong> You have a desire, even an obsession, to identify new prospects, contacts and decision makers to expand the number of new logos</p></li><li><p><strong>Excellent Communication:</strong> You know what to say (both internally and with clients) and more importantly, how to say it in both French and English</p></li><li><p><strong>Collaborator</strong>: You know that selling is a team sport and will partner with virtual teams to ensure success. You have experience in working with remote teams and clients to close joint business</p></li><li><p><strong>Go-Getter:</strong> Willing to go the extra mile with a strong work ethic - disciplined and resourceful.</p></li></ul><p><br></p><p><strong><em>Moreover, we are looking for someone based in Paris (to meet prospects, go on events and be close to your management) but working remotely anywhere in France is permitted.</em></strong></p><p><em><br></em></p><p><em>Confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to come into work every day.</em></p><p><br></p>",
+        "sharing_image": null,
+        "locations_question": "What is your preferred work location?",
+        "sharing_description": "ABOUT LIVESTORMLivestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from",
+        "sharing_title": "Account Executive Enterprise"
+      }
+    },
+    "mailbox_email": "job.4ccfp@livestorm.recruitee.com",
+    "hybrid": false,
+    "sharing_title": "Account Executive Enterprise",
+    "options_photo": "optional",
+    "requirements": "<p><em>At Livestorm, we believe that diversity's got talent! We are committed to building an inclusive company culture in which a diverse mix of talented people will feel proud to join and engage. Our goal is to ensure that every Stormie feels valued and has the opportunity to thrive. Ready to apply? We are ready to meet you! All applicants will be considered for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age or any other characteristic protected by applicable law.</em></p><p><br></p><p><strong>JOB REQUIREMENTS&nbsp;</strong></p><ul><li><p><strong>Experienced:</strong> You have extensive experience (+3 years minimum) of successfully selling Software/SaaS license agreements into <strong>Enterprise / Large accounts in France</strong> and abroad across a variety of industries (expertise in the Finance &amp; Healthcare industries is a plus)</p></li><li><p><strong>Industry Knowledge:</strong> A good understanding of selling video communication platform would be ideal however, a background in selling SaaS and closing 6/7 figure deals is more important</p></li><li><p><strong>Overachiever:</strong> You have consistently achieved and/or exceeded your sales goals across your geographic territory and have a track record in closing 6/7 figure contracts - You are results oriented</p></li><li><p><strong>Outbound Mindset:</strong> You have a desire, even an obsession, to identify new prospects, contacts and decision makers to expand the number of new logos</p></li><li><p><strong>Excellent Communication:</strong> You know what to say (both internally and with clients) and more importantly, how to say it in both French and English</p></li><li><p><strong>Collaborator</strong>: You know that selling is a team sport and will partner with virtual teams to ensure success. You have experience in working with remote teams and clients to close joint business</p></li><li><p><strong>Go-Getter:</strong> Willing to go the extra mile with a strong work ethic - disciplined and resourceful.</p></li></ul><p><br></p><p><strong><em>Moreover, we are looking for someone based in Paris (to meet prospects, go on events and be close to your management) but working remotely anywhere in France is permitted.</em></strong></p><p><em><br></em></p><p><em>Confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to come into work every day.</em></p><p><br></p>",
+    "description": "<p><strong>ABOUT LIVESTORM</strong></p><p>Livestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and analyze online events. Livestorm is built with ease of use in mind. We serve companies of all sizes, from startups to Fortune 500s. Brands like Shopify, Honda, Spendesk, Front and Revolut trust Livestorm for premium video engagement during their online events.</p><p><br></p><p>Here are our core values:</p><ul><li><p><strong>Stay curious:</strong> Be interested in the world around you.</p></li><li><p><strong>Remain humble:</strong> Keep learning and keep your ego in check.</p></li><li><p><strong>Be resourceful:</strong> Go that extra mile in the most efficient way.</p></li><li><p><strong>Own it:</strong> Take pride in what you do, own your wins, and fails.</p></li><li><p><strong>Be transparent:</strong> Sharing knowledge, learnings, feedback, and mistakes.</p></li></ul><p><br></p><p><strong>MISSION</strong></p><p>Livestorm sales team is a team of entrepreneurial and driven sales professionals. They are playing a key role in the expansion of Livestorm as we establish ourselves as a market leader in the video communication market, leveraging Livestorm's existing customer references, marketing programs, turning leads into long-lasting partnerships.</p><p><br></p><p>Account Executives are responsible for identifying, segmenting, engaging, and converting qualified <strong>Mid-Market and Enterprise prospects</strong> into paying customers according to an annual quota.</p><p><br></p><p>You will report to the Head of New Business, and will closely collaborate with all our teams (Marketing, Sales, Customer Care, Product and Finance) to drive maximum value and success with new Livestorm customers.</p><p><br></p><p>A successful Account Executive will be a skilled communicator and presenter who can find the best fit between client and product.</p><p><strong><br></strong></p><p><strong>IN THIS ROLE, YOU WILL</strong></p><ul><li><p>Qualify inbound marketing source leads (MQLs) coming from <strong>Mid-Market &amp; Enterprise prospects</strong> and turn them, if qualified, into opportunities and closed contracts</p></li><li><p>Focus your <strong>outbound</strong> efforts on the Enterprise segment (with a <strong>focus on the Finance, Healthcare &amp; Tech industries</strong>) and develop / execute sales strategies and tactics to generate pipeline, drive sales opportunities and deliver repeatable and predictable bookings</p></li><li><p>Work on the <strong>NEMEA (Nordics &amp; UK) and US market</strong> (native speakers are preferred for this role / previous sales experience in these regions is a big plus). </p></li><li><p>Use of a variety of channels to identify new prospects and close new deals such as social media, internet, web-based tools &amp; outbound calling</p></li><li><p>Manage effectively all CRM activity relating to your accounts (Salesforce) and all the tech stack of an AE at Livestorm (SalesNav, Salesloft, Modjo, Chili Piper, Notion &amp; more)</p></li><li><p>Pro-actively work with other teams (Account Management, Growth &amp; Marketing, Customer Success, etc.)</p></li><li><p>Provide clients’ feedback, especially on product, in order for Livestorm to adjust and prioritize its product roadmap.</p></li></ul>",
+    "locations": [
+      {
+        "id": 242350,
+        "name": "Anywhere in Europe",
+        "state": "Île-de-France",
+        "country": "France",
+        "city": "Paris",
+        "translations": {
+          "en": {
+            "name": "Anywhere in Europe",
+            "city": "Paris",
+            "postal_code": null,
+            "street": null,
+            "note": "Anywhere in the EU"
+          }
+        },
+        "country_code": "FR",
+        "state_code": "IDF",
+        "postal_code": null,
+        "street": null,
+        "note": "Anywhere in the EU"
+      }
+    ],
+    "location_question_visible": false,
+    "min_hours": 35,
+    "highlight": null,
+    "department": "Sales",
+    "remote": true,
+    "min_hours_per_week": "35",
+    "careers_url": "https://jobs.livestorm.co/o/account-executive-enterprise-2",
+    "id": 2619548,
+    "options_salutation": "off",
+    "location": "Remote job",
+    "cover_image": {
+      "url": "https://careers.recruiteecdn.com/image/upload/ats-production/offers/2619548/offer_cover_image_agl9efy1flg1.jpeg"
+    },
+    "published_at": "2026-05-28 13:33:37 UTC",
+    "employment_type_code": "fulltime_permanent",
+    "options_cover_letter": "off",
+    "status": "published",
+    "locations_question": "What is your preferred work location?",
+    "updated_at": "2026-07-28 09:47:35 UTC",
+    "dynamic_fields": [],
+    "tags": [],
+    "open_questions": [
+      {
+        "id": 4157420,
+        "position": 1,
+        "options": {},
+        "required": true,
+        "body": "Have you ever done SaaS sales?",
+        "kind": "string",
+        "translations": {
+          "en": {
+            "body": "Have you ever done SaaS sales?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 4157421,
+        "position": 2,
+        "options": {},
+        "required": true,
+        "body": "What has been the biggest opportunity you have ever closed ?",
+        "kind": "text",
+        "translations": {
+          "en": {
+            "body": "What has been the biggest opportunity you have ever closed ?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 4157422,
+        "position": 3,
+        "options": {},
+        "required": true,
+        "body": "Did you own the entire sales process within your territory (from lead generation to closing)?",
+        "kind": "text",
+        "translations": {
+          "en": {
+            "body": "Did you own the entire sales process within your territory (from lead generation to closing)?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 4157423,
+        "position": 4,
+        "options": {},
+        "required": true,
+        "body": "Who were your points of contacts in your prospect database?",
+        "kind": "text",
+        "translations": {
+          "en": {
+            "body": "Who were your points of contacts in your prospect database?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 4157424,
+        "position": 5,
+        "options": {},
+        "required": true,
+        "body": "What are your salary expectations ?",
+        "kind": "string",
+        "translations": {
+          "en": {
+            "body": "What are your salary expectations ?"
+          }
+        },
+        "open_question_options": []
+      }
+    ]
+  },
+  {
+    "position": 245,
+    "state_name": "Île-de-France",
+    "education_code": "bachelor_degree",
+    "locations_question_required": true,
+    "state_code": "IDF",
+    "guid": "ufun8",
+    "options_cv": "required",
+    "title": "Account Executive Enterprise",
+    "on_site": false,
+    "locations_question_type": "multiple_choice",
+    "company_name": "Livestorm",
+    "postal_code": null,
+    "city": "Paris",
+    "options_phone": "required",
+    "sharing_image": null,
+    "careers_apply_url": "https://jobs.livestorm.co/o/account-executive-enterprise-1/c/new",
+    "max_hours": 39,
+    "sharing_description": "ABOUT LIVESTORMLivestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from",
+    "close_at": null,
+    "country": "France",
+    "slug": "account-executive-enterprise-1",
+    "max_hours_per_week": "39",
+    "experience_code": "experienced",
+    "country_code": "FR",
+    "salary": {
+      "max": "80000",
+      "min": "60000",
+      "period": "year",
+      "currency": "EUR"
+    },
+    "category_code": "sales",
+    "created_at": "2024-09-17 14:08:19 UTC",
+    "options_title": "off",
+    "translations": {
+      "en": {
+        "description": "<p><strong>ABOUT LIVESTORM</strong></p><p>Livestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and analyze online events. Livestorm is built with ease of use in mind. We serve companies of all sizes, from startups to Fortune 500s. Brands like Shopify, Honda, Spendesk, Front and Revolut trust Livestorm for premium video engagement during their online events.</p><p><br></p><p>Here are our core values:</p><ul><li><p><strong>Stay curious:</strong> Be interested in the world around you.</p></li><li><p><strong>Remain humble:</strong> Keep learning and keep your ego in check.</p></li><li><p><strong>Be resourceful:</strong> Go that extra mile in the most efficient way.</p></li><li><p><strong>Own it:</strong> Take pride in what you do, own your wins, and fails.</p></li><li><p><strong>Be transparent:</strong> Sharing knowledge, learnings, feedback, and mistakes.</p></li></ul><p><br></p><p><strong>MISSION</strong></p><p>Livestorm sales team is a team of entrepreneurial and driven sales professionals. They are playing a key role in the expansion of Livestorm as we establish ourselves as a market leader in the video communication market, leveraging Livestorm's existing customer references, marketing programs, turning leads into long-lasting partnerships.</p><p><br></p><p>Account Executives are responsible for identifying, segmenting, engaging, and converting qualified <strong>Mid-Market and Enterprise prospects</strong> into paying customers according to an annual quota.</p><p><br></p><p>You will report to the Head of New Business, and will closely collaborate with all our teams (Marketing, Sales, Customer Care, Product and Finance) to drive maximum value and success with new Livestorm customers.</p><p><br></p><p>A successful Account Executive will be a skilled communicator and presenter who can find the best fit between client and product.</p><p><strong><br></strong></p><p><strong>IN THIS ROLE, YOU WILL</strong></p><ul><li><p>Qualify inbound marketing source leads (MQLs) coming from <strong>Mid-Market &amp; Enterprise prospects</strong> and turn them, if qualified, into opportunities and closed contracts</p></li><li><p>Focus your <strong>outbound</strong> efforts on the Enterprise segment (with a <strong>focus on the Finance, Healthcare &amp; Tech industries</strong>) and develop / execute sales strategies and tactics to generate pipeline, drive sales opportunities and deliver repeatable and predictable bookings</p></li><li><p>Work on the <strong>NEMEA (Nordics &amp; UK) and US market</strong> (native speakers are preferred for this role / previous sales experience in these regions is a big plus). </p></li><li><p>Use of a variety of channels to identify new prospects and close new deals such as social media, internet, web-based tools &amp; outbound calling</p></li><li><p>Manage effectively all CRM activity relating to your accounts (Salesforce) and all the tech stack of an AE at Livestorm (SalesNav, Salesloft, Modjo, Chili Piper, Notion &amp; more)</p></li><li><p>Pro-actively work with other teams (Account Management, Growth &amp; Marketing, Customer Success, etc.)</p></li><li><p>Provide clients’ feedback, especially on product, in order for Livestorm to adjust and prioritize its product roadmap.</p></li></ul>",
+        "title": "Account Executive Enterprise",
+        "highlight": null,
+        "requirements": "<p><em>At Livestorm, we believe that diversity's got talent! We are committed to building an inclusive company culture in which a diverse mix of talented people will feel proud to join and engage. Our goal is to ensure that every Stormie feels valued and has the opportunity to thrive. Ready to apply? We are ready to meet you! All applicants will be considered for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age or any other characteristic protected by applicable law.</em></p><p><br></p><p><strong>JOB REQUIREMENTS&nbsp;</strong></p><ul><li><p><strong>Experienced:</strong> You have extensive experience (+3 years minimum) of successfully selling Software/SaaS license agreements into <strong>Enterprise / Large accounts in France</strong> and abroad across a variety of industries (expertise in the Finance &amp; Healthcare industries is a plus)</p></li><li><p><strong>Industry Knowledge:</strong> A good understanding of selling video communication platform would be ideal however, a background in selling SaaS and closing 6/7 figure deals is more important</p></li><li><p><strong>Overachiever:</strong> You have consistently achieved and/or exceeded your sales goals across your geographic territory and have a track record in closing 6/7 figure contracts - You are results oriented</p></li><li><p><strong>Outbound Mindset:</strong> You have a desire, even an obsession, to identify new prospects, contacts and decision makers to expand the number of new logos</p></li><li><p><strong>Excellent Communication:</strong> You know what to say (both internally and with clients) and more importantly, how to say it in both French and English</p></li><li><p><strong>Collaborator</strong>: You know that selling is a team sport and will partner with virtual teams to ensure success. You have experience in working with remote teams and clients to close joint business</p></li><li><p><strong>Go-Getter:</strong> Willing to go the extra mile with a strong work ethic - disciplined and resourceful.</p></li></ul><p><br></p><p><strong><em>Moreover, we are looking for someone based in Paris (to meet prospects, go on events and be close to your management) but working remotely anywhere in France is permitted.</em></strong></p><p><em><br></em></p><p><em>Confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to come into work every day.</em></p><p><br></p>",
+        "sharing_image": null,
+        "locations_question": "What is your preferred work location?",
+        "sharing_description": "ABOUT LIVESTORMLivestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from",
+        "sharing_title": "Account Executive Enterprise"
+      }
+    },
+    "mailbox_email": "job.ufun8@livestorm.recruitee.com",
+    "hybrid": false,
+    "sharing_title": "Account Executive Enterprise",
+    "options_photo": "optional",
+    "requirements": "<p><em>At Livestorm, we believe that diversity's got talent! We are committed to building an inclusive company culture in which a diverse mix of talented people will feel proud to join and engage. Our goal is to ensure that every Stormie feels valued and has the opportunity to thrive. Ready to apply? We are ready to meet you! All applicants will be considered for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age or any other characteristic protected by applicable law.</em></p><p><br></p><p><strong>JOB REQUIREMENTS&nbsp;</strong></p><ul><li><p><strong>Experienced:</strong> You have extensive experience (+3 years minimum) of successfully selling Software/SaaS license agreements into <strong>Enterprise / Large accounts in France</strong> and abroad across a variety of industries (expertise in the Finance &amp; Healthcare industries is a plus)</p></li><li><p><strong>Industry Knowledge:</strong> A good understanding of selling video communication platform would be ideal however, a background in selling SaaS and closing 6/7 figure deals is more important</p></li><li><p><strong>Overachiever:</strong> You have consistently achieved and/or exceeded your sales goals across your geographic territory and have a track record in closing 6/7 figure contracts - You are results oriented</p></li><li><p><strong>Outbound Mindset:</strong> You have a desire, even an obsession, to identify new prospects, contacts and decision makers to expand the number of new logos</p></li><li><p><strong>Excellent Communication:</strong> You know what to say (both internally and with clients) and more importantly, how to say it in both French and English</p></li><li><p><strong>Collaborator</strong>: You know that selling is a team sport and will partner with virtual teams to ensure success. You have experience in working with remote teams and clients to close joint business</p></li><li><p><strong>Go-Getter:</strong> Willing to go the extra mile with a strong work ethic - disciplined and resourceful.</p></li></ul><p><br></p><p><strong><em>Moreover, we are looking for someone based in Paris (to meet prospects, go on events and be close to your management) but working remotely anywhere in France is permitted.</em></strong></p><p><em><br></em></p><p><em>Confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to come into work every day.</em></p><p><br></p>",
+    "description": "<p><strong>ABOUT LIVESTORM</strong></p><p>Livestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and analyze online events. Livestorm is built with ease of use in mind. We serve companies of all sizes, from startups to Fortune 500s. Brands like Shopify, Honda, Spendesk, Front and Revolut trust Livestorm for premium video engagement during their online events.</p><p><br></p><p>Here are our core values:</p><ul><li><p><strong>Stay curious:</strong> Be interested in the world around you.</p></li><li><p><strong>Remain humble:</strong> Keep learning and keep your ego in check.</p></li><li><p><strong>Be resourceful:</strong> Go that extra mile in the most efficient way.</p></li><li><p><strong>Own it:</strong> Take pride in what you do, own your wins, and fails.</p></li><li><p><strong>Be transparent:</strong> Sharing knowledge, learnings, feedback, and mistakes.</p></li></ul><p><br></p><p><strong>MISSION</strong></p><p>Livestorm sales team is a team of entrepreneurial and driven sales professionals. They are playing a key role in the expansion of Livestorm as we establish ourselves as a market leader in the video communication market, leveraging Livestorm's existing customer references, marketing programs, turning leads into long-lasting partnerships.</p><p><br></p><p>Account Executives are responsible for identifying, segmenting, engaging, and converting qualified <strong>Mid-Market and Enterprise prospects</strong> into paying customers according to an annual quota.</p><p><br></p><p>You will report to the Head of New Business, and will closely collaborate with all our teams (Marketing, Sales, Customer Care, Product and Finance) to drive maximum value and success with new Livestorm customers.</p><p><br></p><p>A successful Account Executive will be a skilled communicator and presenter who can find the best fit between client and product.</p><p><strong><br></strong></p><p><strong>IN THIS ROLE, YOU WILL</strong></p><ul><li><p>Qualify inbound marketing source leads (MQLs) coming from <strong>Mid-Market &amp; Enterprise prospects</strong> and turn them, if qualified, into opportunities and closed contracts</p></li><li><p>Focus your <strong>outbound</strong> efforts on the Enterprise segment (with a <strong>focus on the Finance, Healthcare &amp; Tech industries</strong>) and develop / execute sales strategies and tactics to generate pipeline, drive sales opportunities and deliver repeatable and predictable bookings</p></li><li><p>Work on the <strong>NEMEA (Nordics &amp; UK) and US market</strong> (native speakers are preferred for this role / previous sales experience in these regions is a big plus). </p></li><li><p>Use of a variety of channels to identify new prospects and close new deals such as social media, internet, web-based tools &amp; outbound calling</p></li><li><p>Manage effectively all CRM activity relating to your accounts (Salesforce) and all the tech stack of an AE at Livestorm (SalesNav, Salesloft, Modjo, Chili Piper, Notion &amp; more)</p></li><li><p>Pro-actively work with other teams (Account Management, Growth &amp; Marketing, Customer Success, etc.)</p></li><li><p>Provide clients’ feedback, especially on product, in order for Livestorm to adjust and prioritize its product roadmap.</p></li></ul>",
+    "locations": [
+      {
+        "id": 242350,
+        "name": "Anywhere in Europe",
+        "state": "Île-de-France",
+        "country": "France",
+        "city": "Paris",
+        "translations": {
+          "en": {
+            "name": "Anywhere in Europe",
+            "city": "Paris",
+            "postal_code": null,
+            "street": null,
+            "note": "Anywhere in the EU"
+          }
+        },
+        "country_code": "FR",
+        "state_code": "IDF",
+        "postal_code": null,
+        "street": null,
+        "note": "Anywhere in the EU"
+      }
+    ],
+    "location_question_visible": false,
+    "min_hours": 35,
+    "highlight": null,
+    "department": "Sales",
+    "remote": true,
+    "min_hours_per_week": "35",
+    "careers_url": "https://jobs.livestorm.co/o/account-executive-enterprise-1",
+    "id": 1843564,
+    "options_salutation": "off",
+    "location": "Remote job",
+    "cover_image": {
+      "url": "https://careers.recruiteecdn.com/image/upload/ats-production/offers/1843564/offer_cover_image_agl9efy1flg1.jpeg"
+    },
+    "published_at": "2026-05-19 16:46:46 UTC",
+    "employment_type_code": "fulltime_permanent",
+    "options_cover_letter": "off",
+    "status": "published",
+    "locations_question": "What is your preferred work location?",
+    "updated_at": "2026-07-31 16:18:40 UTC",
+    "dynamic_fields": [],
+    "tags": [],
+    "open_questions": [
+      {
+        "id": 2719790,
+        "position": 1,
+        "options": {},
+        "required": true,
+        "body": "Have you ever done SaaS sales?",
+        "kind": "string",
+        "translations": {
+          "en": {
+            "body": "Have you ever done SaaS sales?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 2719791,
+        "position": 2,
+        "options": {},
+        "required": true,
+        "body": "What has been the biggest opportunity you have ever closed ?",
+        "kind": "text",
+        "translations": {
+          "en": {
+            "body": "What has been the biggest opportunity you have ever closed ?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 2719792,
+        "position": 3,
+        "options": {},
+        "required": true,
+        "body": "Did you own the entire sales process within your territory (from lead generation to closing)?",
+        "kind": "text",
+        "translations": {
+          "en": {
+            "body": "Did you own the entire sales process within your territory (from lead generation to closing)?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 2719793,
+        "position": 4,
+        "options": {},
+        "required": true,
+        "body": "Who were your points of contacts in your prospect database?",
+        "kind": "text",
+        "translations": {
+          "en": {
+            "body": "Who were your points of contacts in your prospect database?"
+          }
+        },
+        "open_question_options": []
+      },
+      {
+        "id": 2719794,
+        "position": 5,
+        "options": {},
+        "required": true,
+        "body": "What are your salary expectations ?",
+        "kind": "string",
+        "translations": {
+          "en": {
+            "body": "What are your salary expectations ?"
+          }
+        },
+        "open_question_options": []
+      }
+    ]
+  }
+]

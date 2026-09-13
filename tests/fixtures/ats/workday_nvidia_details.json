@@ -1,0 +1,85 @@
+{
+  "jobPostingInfo": {
+    "id": "8e1e0617554c1018648b7f6fc7150000",
+    "title": "Senior Storage Software Engineer, DGXC Data Services",
+    "jobDescription": "<p><span>The NVIDIA DGXC Data Services team builds cloud-native systems, frameworks, and services for managing data across hybrid and multi-cloud infrastructure. We are building the next-generation data and storage infrastructure to solve some of the hardest problems in AI: storage, access, ingestion, governance, observability, and data management for exabyte-scale, high-performance GPU-based training and inference jobs. Our work gives NVIDIA teams the foundational capabilities they need to build, train, deploy, and operate AI products at scale without reinventing critical data infrastructure for every workload.</span></p><p></p><p><b><span>What you will be doing:</span></b></p><ul><li><p><span>Build storage technologies, client libraries, and filesystem frameworks that help AI workloads access data across object stores, file systems, and hybrid cloud infrastructure.</span></p></li><li><p><span>Develop high-performance storage paths for training and inference workflows, including data loading, checkpointing, caching, POSIX-style access, and object-store integration.</span></p></li><li><p><span>Build observability systems that diagnose storage bottlenecks, attribute GPU idle time to I/O behavior, and expose actionable telemetry through production monitoring stacks.</span></p></li><li><p><span>Improve performance, scalability, and reliability of storage systems serving massive datasets, deep directory trees, and high-concurrency AI workloads.</span></p></li><li><p><span>Work closely with internal AI teams, platform teams, SRE, and operations to validate storage behavior against real workloads and production environments.</span></p></li><li><p><span>Use modern software engineering practices, including AI-assisted and agentic development workflows, while maintaining high standards for design, testing, security, performance, and verification.</span></p></li></ul><p></p><p><b><span>What we need to see:</span></b></p><ul><li><p><span>BS in Computer Science, Information Systems, Computer Engineering, or equivalent experience, with 5&#43; years of software engineering experience.</span></p></li><li><p><span>Strong foundation in algorithms, data structures, distributed systems, operating systems, and practical software design.</span></p></li><li><p><span>Experience building performance-sensitive systems, storage, backend, or cloud-native software in languages such as Go, Python, Rust, C/C&#43;&#43;, or Java.</span></p></li><li><p><span>Experience with storage systems, object stores, caching, Linux systems, Kubernetes, or cloud infrastructure.</span></p></li><li><p><span>Ability to reason about performance, scalability, concurrency, reliability, and operational tradeoffs in production systems.</span></p></li><li><p><span>Ability to design APIs, document systems, communicate clearly, and break ambiguous infrastructure problems into practical execution plans.</span></p></li><li><p><span>Curiosity and practical judgment around AI-assisted or agentic engineering workflows, including using clear intent, specifications, acceptance criteria, tests, and verification to guide development.</span></p></li></ul><p></p><p><b><span>Ways to stand out from the crowd:</span></b></p><ul><li><p><span>Background with Linux kernel observability, eBPF, tracing, or low-overhead telemetry systems.</span></p></li><li><p><span>Experience with FUSE, POSIX filesystems, object-store-backed filesystems, or filesystem metadata/indexing.</span></p></li><li><p><span>Experience optimizing storage performance for AI training, checkpointing, inference, or large-scale data pipelines.</span></p></li></ul><p></p><p><span>NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing, and Visualization. Our invention, the GPU, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers what were once science fiction inventions, from artificial intelligence to autonomous cars. NVIDIA is seeking exceptional individuals like you to help us drive the next wave of artificial intelligence.</span></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 152,000 USD - 241,500 USD for Level 3, and 184,000 USD - 287,500 USD for Level 4.<div><div><div><div><div><div><div><p></p><p><span>You will also be eligible for equity and <a href=\"https://www.nvidia.com/en-us/benefits/\" target=\"_blank\">benefits</a>.</span></p><p></p></div></div></div></div></div></div></div>Applications for this job will be accepted at least until September 17, 2026.<p></p><p>This posting is for an existing vacancy. </p><p>NVIDIA uses AI tools in its recruiting processes.</p><p></p>NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>",
+    "location": "US, CA, Santa Clara",
+    "additionalLocations": [
+      "US, NC, Remote",
+      "US, TX, Remote",
+      "US, WA, Remote",
+      "US, Remote",
+      "US, CA, Remote"
+    ],
+    "postedOn": "Posted Today",
+    "startDate": "2026-09-13",
+    "timeType": "Full time",
+    "jobReqId": "JR2020844",
+    "jobPostingId": "Senior-Storage-Software-Engineer--DGXC-Data-Services_JR2020844",
+    "jobPostingSiteId": "NVIDIAExternalCareerSite",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "US, CA, Santa Clara",
+      "country": {
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09",
+        "alpha2Code": "US"
+      }
+    },
+    "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer--DGXC-Data-Services_JR2020844",
+    "questionnaireId": "2f2764b3a82910064296831695150000"
+  },
+  "hiringOrganization": {
+    "name": "2100 NVIDIA USA",
+    "url": ""
+  },
+  "similarJobs": [
+    {
+      "title": "Senior Cloud Software Engineer, DGXC Data Services",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389",
+      "timeType": "Full time",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 4 Days Ago",
+      "startDate": "2026-09-09"
+    },
+    {
+      "title": "Senior Storage Production Engineer - DGX Cloud",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-Storage-Production-Engineer---DGX-Cloud_JR2019643",
+      "timeType": "Full time",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-06-14"
+    },
+    {
+      "title": "Senior Storage Production Engineer - DGX Cloud",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-Storage-Production-Engineer---DGX-Cloud_JR2021335",
+      "timeType": "Full time",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-05"
+    },
+    {
+      "title": "Senior Software Engineer, Object Storage - DGX Cloud",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Object-Storage---DGX-Cloud_JR2025155",
+      "timeType": "Full time",
+      "locationsText": "6 Locations",
+      "postedOn": "Posted 2 Days Ago",
+      "startDate": "2026-09-11"
+    },
+    {
+      "title": "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud",
+      "externalPath": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Kubernetes-and-Virtualization---DGX-Cloud_JR2007944",
+      "timeType": "Full time",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted Today",
+      "startDate": "2026-09-13"
+    }
+  ],
+  "userAuthenticated": false
+}

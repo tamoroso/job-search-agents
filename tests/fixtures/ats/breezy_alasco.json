@@ -1,0 +1,463 @@
+[
+  {
+    "id": "0cb7fad83944",
+    "friendly_id": "0cb7fad83944-enterprise-account-executive-m-w-d",
+    "name": "Enterprise Account Executive (m/w/d)",
+    "url": "https://alasco.breezy.hr/p/0cb7fad83944-enterprise-account-executive-m-w-d",
+    "published_date": "2026-07-29T07:49:17.015Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "location": {
+      "country": {
+        "name": "Germany",
+        "id": "DE"
+      },
+      "city": "Munich",
+      "primary": true,
+      "is_remote": true,
+      "name": "Munich, DE",
+      "id": "f1e160f2ac86",
+      "streetAddress": {
+        "location": "Leopoldstraße, München, Germany",
+        "components": [
+          {
+            "long_name": "Leopoldstraße",
+            "short_name": "Leopoldstraße",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "München",
+            "short_name": "München",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kreisfreie Stadt München",
+            "short_name": "Kreisfreie Stadt München",
+            "types": [
+              "administrative_area_level_3",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Oberbayern",
+            "short_name": "Oberbayern",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayern",
+            "short_name": "BY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Germany",
+            "short_name": "DE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "custom": ""
+      },
+      "isOtherSelected": false,
+      "remote_details": {
+        "value": "hybrid",
+        "label": "Hybrid (Some remote, some in person)"
+      }
+    },
+    "department": "Sales",
+    "salary": "",
+    "company": {
+      "name": "Alasco",
+      "logo_url": "https://gallery-cdn.breezy.hr/023022ec-06d8-4a6d-b01b-47976758cf9f/Alasco_Logo_Stacked_Blue_RGB.png",
+      "friendly_id": "alasco",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "country": {
+          "name": "Germany",
+          "id": "DE"
+        },
+        "city": "Munich",
+        "primary": true,
+        "is_remote": true,
+        "name": "Munich, DE",
+        "id": "f1e160f2ac86",
+        "streetAddress": {
+          "location": "Leopoldstraße, München, Germany",
+          "components": [
+            {
+              "long_name": "Leopoldstraße",
+              "short_name": "Leopoldstraße",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "München",
+              "short_name": "München",
+              "types": [
+                "locality",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kreisfreie Stadt München",
+              "short_name": "Kreisfreie Stadt München",
+              "types": [
+                "administrative_area_level_3",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Oberbayern",
+              "short_name": "Oberbayern",
+              "types": [
+                "administrative_area_level_2",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Bayern",
+              "short_name": "BY",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Germany",
+              "short_name": "DE",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ],
+          "custom": ""
+        },
+        "isOtherSelected": false,
+        "remote_details": {
+          "value": "hybrid",
+          "label": "Hybrid (Some remote, some in person)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9747cc82d678",
+    "friendly_id": "9747cc82d678-enterprise-account-manager-dach-m-w-d",
+    "name": "Enterprise Account Manager DACH (m/w/d)",
+    "url": "https://alasco.breezy.hr/p/9747cc82d678-enterprise-account-manager-dach-m-w-d",
+    "published_date": "2026-08-27T09:48:57.226Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "location": {
+      "country": {
+        "name": "Germany",
+        "id": "DE"
+      },
+      "city": "Munich",
+      "primary": true,
+      "is_remote": true,
+      "name": "Munich, DE",
+      "id": "85dc82071436",
+      "streetAddress": {
+        "location": "Leopoldstraße, München, Germany",
+        "components": [
+          {
+            "long_name": "Leopoldstraße",
+            "short_name": "Leopoldstraße",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "München",
+            "short_name": "München",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kreisfreie Stadt München",
+            "short_name": "Kreisfreie Stadt München",
+            "types": [
+              "administrative_area_level_3",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Oberbayern",
+            "short_name": "Oberbayern",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayern",
+            "short_name": "BY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Germany",
+            "short_name": "DE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ]
+      },
+      "remote_details": {
+        "value": "hybrid",
+        "label": "Hybrid (Some remote, some in person)"
+      }
+    },
+    "department": "Sales",
+    "salary": "",
+    "company": {
+      "name": "Alasco",
+      "logo_url": "https://gallery-cdn.breezy.hr/023022ec-06d8-4a6d-b01b-47976758cf9f/Alasco_Logo_Stacked_Blue_RGB.png",
+      "friendly_id": "alasco",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "country": {
+          "name": "Germany",
+          "id": "DE"
+        },
+        "city": "Munich",
+        "primary": true,
+        "is_remote": true,
+        "name": "Munich, DE",
+        "id": "85dc82071436",
+        "streetAddress": {
+          "location": "Leopoldstraße, München, Germany",
+          "components": [
+            {
+              "long_name": "Leopoldstraße",
+              "short_name": "Leopoldstraße",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "München",
+              "short_name": "München",
+              "types": [
+                "locality",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kreisfreie Stadt München",
+              "short_name": "Kreisfreie Stadt München",
+              "types": [
+                "administrative_area_level_3",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Oberbayern",
+              "short_name": "Oberbayern",
+              "types": [
+                "administrative_area_level_2",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Bayern",
+              "short_name": "BY",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Germany",
+              "short_name": "DE",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ]
+        },
+        "remote_details": {
+          "value": "hybrid",
+          "label": "Hybrid (Some remote, some in person)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "5dfcc12b931e",
+    "friendly_id": "5dfcc12b931e-gtm-engineer-m-f-d",
+    "name": "GTM Engineer (m/f/d)",
+    "url": "https://alasco.breezy.hr/p/5dfcc12b931e-gtm-engineer-m-f-d",
+    "published_date": "2026-09-08T21:35:46.986Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Vollzeit"
+    },
+    "location": {
+      "country": {
+        "name": "Deutschland",
+        "id": "DE"
+      },
+      "city": "München",
+      "primary": true,
+      "streetAddress": {
+        "location": "Leopoldstraße, München, Germany",
+        "components": [
+          {
+            "long_name": "Leopoldstraße",
+            "short_name": "Leopoldstraße",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "München",
+            "short_name": "München",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Kreisfreie Stadt München",
+            "short_name": "Kreisfreie Stadt München",
+            "types": [
+              "administrative_area_level_3",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Oberbayern",
+            "short_name": "Oberbayern",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayern",
+            "short_name": "BY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Germany",
+            "short_name": "DE",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ]
+      },
+      "is_remote": false,
+      "name": "München, DE",
+      "id": "44a3522a47d9"
+    },
+    "department": "RevOps",
+    "salary": "",
+    "company": {
+      "name": "Alasco",
+      "logo_url": "https://gallery-cdn.breezy.hr/023022ec-06d8-4a6d-b01b-47976758cf9f/Alasco_Logo_Stacked_Blue_RGB.png",
+      "friendly_id": "alasco",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "country": {
+          "name": "Deutschland",
+          "id": "DE"
+        },
+        "city": "München",
+        "primary": true,
+        "streetAddress": {
+          "location": "Leopoldstraße, München, Germany",
+          "components": [
+            {
+              "long_name": "Leopoldstraße",
+              "short_name": "Leopoldstraße",
+              "types": [
+                "route"
+              ]
+            },
+            {
+              "long_name": "München",
+              "short_name": "München",
+              "types": [
+                "locality",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Kreisfreie Stadt München",
+              "short_name": "Kreisfreie Stadt München",
+              "types": [
+                "administrative_area_level_3",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Oberbayern",
+              "short_name": "Oberbayern",
+              "types": [
+                "administrative_area_level_2",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Bayern",
+              "short_name": "BY",
+              "types": [
+                "administrative_area_level_1",
+                "political"
+              ]
+            },
+            {
+              "long_name": "Germany",
+              "short_name": "DE",
+              "types": [
+                "country",
+                "political"
+              ]
+            }
+          ]
+        },
+        "is_remote": false,
+        "name": "München, DE",
+        "id": "44a3522a47d9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "id": "3743990015226106",
+    "name": "Therapeutics/ Aesthetics Associate (AbbVie Tumoohy Talent) (Emrati Nationals)",
+    "uuid": "d742edfc-2fa0-4e2b-b558-2a9da91e5bc3",
+    "jobAdId": "5e25a6e4-9988-48d0-894f-cac26a6cf692",
+    "defaultJobAd": true,
+    "refNumber": "R00147210",
+    "company": {
+      "identifier": "AbbVie",
+      "name": "AbbVie"
+    },
+    "releasedDate": "2026-09-13T11:00:15.418Z",
+    "location": {
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "ae",
+      "remote": false,
+      "hybrid": true,
+      "latitude": "25.2048493",
+      "longitude": "55.2707828",
+      "fullLocation": "Dubai, Dubai, United Arab Emirates"
+    },
+    "industry": {
+      "id": "pharmaceuticals",
+      "label": "Pharmaceuticals"
+    },
+    "department": {},
+    "function": {
+      "id": "administrative",
+      "label": "Administrative"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "experienceLevel": {
+      "id": "entry_level",
+      "label": "Entry Level"
+    },
+    "customField": [
+      {
+        "fieldId": "65807663cbfd1911c2f5d15f",
+        "fieldLabel": "Workday Function",
+        "valueId": "FUNCTION_COEL",
+        "valueLabel": "COEL EEMEA - Area VP / GM"
+      },
+      {
+        "fieldId": "657cc8550d0b1f2ef38a3fc9",
+        "fieldLabel": "City",
+        "valueId": "Dubai",
+        "valueLabel": "Dubai"
+      },
+      {
+        "fieldId": "657ccabf0d0b1f2ef38a3fce",
+        "fieldLabel": "Segment 5 (Maximum)",
+        "valueId": "0",
+        "valueLabel": "0"
+      },
+      {
+        "fieldId": "656747e5a29e121ffd619b85",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "AbbVie"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "ae",
+        "valueLabel": "United Arab Emirates"
+      },
+      {
+        "fieldId": "657cca530d0b1f2ef38a3fcc",
+        "fieldLabel": "Segment 1 (Minimum)",
+        "valueId": "0",
+        "valueLabel": "0"
+      },
+      {
+        "fieldId": "657ccc1c0d0b1f2ef38a3fda",
+        "fieldLabel": "Workday Job Family",
+        "valueId": "Job_Family_Administrative_Services",
+        "valueLabel": "Administrative Services"
+      },
+      {
+        "fieldId": "657ccc483fd51d6d84c0bc3c",
+        "fieldLabel": "Posting Grade",
+        "valueId": "COMPENSATIONGRADE_00",
+        "valueLabel": "00"
+      },
+      {
+        "fieldId": "65806674cbfd1911c2f5d15b",
+        "fieldLabel": "Hiring Manager",
+        "valueId": "10406001",
+        "valueLabel": "Reema Ali (10406001)"
+      },
+      {
+        "fieldId": "657ccbce3fd51d6d84c0bc3a",
+        "fieldLabel": "Workday Global Grade",
+        "valueId": "COMPENSATIONGRADE_00",
+        "valueLabel": "00"
+      },
+      {
+        "fieldId": "6580668ecbfd1911c2f5d15c",
+        "fieldLabel": "Hiring Manager Title",
+        "valueId": "Sales Manager Immunology Gulf",
+        "valueLabel": "Sales Manager Immunology Gulf"
+      },
+      {
+        "fieldId": "6580763744b74c1731e95352",
+        "fieldLabel": "Parent Function",
+        "valueId": "FUNCTION_COMM",
+        "valueLabel": "COMM Commercial"
+      },
+      {
+        "fieldId": "657ccc330d0b1f2ef38a3fdb",
+        "fieldLabel": "Salary/Hourly Pay Indicator",
+        "valueId": "Salaried",
+        "valueLabel": "Salaried"
+      },
+      {
+        "fieldId": "657cc8220d0b1f2ef38a3fc8",
+        "fieldLabel": "Workday Country",
+        "valueId": "AE",
+        "valueLabel": "United Arab Emirates"
+      }
+    ],
+    "visibility": "PUBLIC",
+    "ref": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990015226106",
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  },
+  {
+    "id": "3743990015226066",
+    "name": "Therapeutics/ Aesthetics  Associate (AbbVie Tumoohy Talent) (Emrati Nationals",
+    "uuid": "c5450dba-8838-4de9-90fe-c0e38cadc468",
+    "jobAdId": "5d344e35-f5de-4fe5-aff3-ac81cff3965f",
+    "defaultJobAd": true,
+    "refNumber": "R00149150",
+    "company": {
+      "identifier": "AbbVie",
+      "name": "AbbVie"
+    },
+    "releasedDate": "2026-09-13T10:56:20.475Z",
+    "location": {
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "ae",
+      "remote": false,
+      "hybrid": true,
+      "latitude": "25.2048493",
+      "longitude": "55.2707828",
+      "fullLocation": "Dubai, Dubai, United Arab Emirates"
+    },
+    "industry": {
+      "id": "pharmaceuticals",
+      "label": "Pharmaceuticals"
+    },
+    "department": {},
+    "function": {
+      "id": "administrative",
+      "label": "Administrative"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "experienceLevel": {
+      "id": "entry_level",
+      "label": "Entry Level"
+    },
+    "customField": [
+      {
+        "fieldId": "65807663cbfd1911c2f5d15f",
+        "fieldLabel": "Workday Function",
+        "valueId": "FUNCTION_HQHR",
+        "valueLabel": "HQHR Human Resources"
+      },
+      {
+        "fieldId": "657cc8550d0b1f2ef38a3fc9",
+        "fieldLabel": "City",
+        "valueId": "Dubai",
+        "valueLabel": "Dubai"
+      },
+      {
+        "fieldId": "657ccabf0d0b1f2ef38a3fce",
+        "fieldLabel": "Segment 5 (Maximum)",
+        "valueId": "0",
+        "valueLabel": "0"
+      },
+      {
+        "fieldId": "656747e5a29e121ffd619b85",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "AbbVie"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "ae",
+        "valueLabel": "United Arab Emirates"
+      },
+      {
+        "fieldId": "657cca530d0b1f2ef38a3fcc",
+        "fieldLabel": "Segment 1 (Minimum)",
+        "valueId": "0",
+        "valueLabel": "0"
+      },
+      {
+        "fieldId": "657ccc1c0d0b1f2ef38a3fda",
+        "fieldLabel": "Workday Job Family",
+        "valueId": "Job_Family_Administrative_Services",
+        "valueLabel": "Administrative Services"
+      },
+      {
+        "fieldId": "657ccc483fd51d6d84c0bc3c",
+        "fieldLabel": "Posting Grade",
+        "valueId": "COMPENSATIONGRADE_00",
+        "valueLabel": "00"
+      },
+      {
+        "fieldId": "65806674cbfd1911c2f5d15b",
+        "fieldLabel": "Hiring Manager",
+        "valueId": "15123814",
+        "valueLabel": "Sara Belmejdoub (15123814)"
+      },
+      {
+        "fieldId": "657ccbce3fd51d6d84c0bc3a",
+        "fieldLabel": "Workday Global Grade",
+        "valueId": "COMPENSATIONGRADE_00",
+        "valueLabel": "00"
+      },
+      {
+        "fieldId": "6580668ecbfd1911c2f5d15c",
+        "fieldLabel": "Hiring Manager Title",
+        "valueId": "HR Director Gulf Levant",
+        "valueLabel": "HR Director Gulf Levant"
+      },
+      {
+        "fieldId": "6580763744b74c1731e95352",
+        "fieldLabel": "Parent Function",
+        "valueId": "FUNCTION_HQTR",
+        "valueLabel": "HQTR Headquarters"
+      },
+      {
+        "fieldId": "657ccc330d0b1f2ef38a3fdb",
+        "fieldLabel": "Salary/Hourly Pay Indicator",
+        "valueId": "Salaried",
+        "valueLabel": "Salaried"
+      },
+      {
+        "fieldId": "657cc8220d0b1f2ef38a3fc8",
+        "fieldLabel": "Workday Country",
+        "valueId": "AE",
+        "valueLabel": "United Arab Emirates"
+      }
+    ],
+    "visibility": "PUBLIC",
+    "ref": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990015226066",
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  },
+  {
+    "id": "3743990015226016",
+    "name": "Quality Operations (Bio) Trainee - Attach and Train Program",
+    "uuid": "e0a83132-1fab-44b6-8add-c634389bf0f3",
+    "jobAdId": "6d0a32fe-ff0c-4f5e-a9c1-af31609e5903",
+    "defaultJobAd": true,
+    "refNumber": "R00150786",
+    "company": {
+      "identifier": "AbbVie",
+      "name": "AbbVie"
+    },
+    "releasedDate": "2026-09-13T06:45:40.035Z",
+    "location": {
+      "city": "Singapore",
+      "country": "sg",
+      "remote": false,
+      "hybrid": false,
+      "latitude": "1.2811866",
+      "longitude": "103.8503404",
+      "fullLocation": "Singapore, , Singapore"
+    },
+    "industry": {
+      "id": "pharmaceuticals",
+      "label": "Pharmaceuticals"
+    },
+    "department": {},
+    "function": {
+      "id": "administrative",
+      "label": "Administrative"
+    },
+    "typeOfEmployment": {
+      "id": "permanent",
+      "label": "Full-time"
+    },
+    "experienceLevel": {
+      "id": "entry_level",
+      "label": "Entry Level"
+    },
+    "customField": [
+      {
+        "fieldId": "65807663cbfd1911c2f5d15f",
+        "fieldLabel": "Workday Function",
+        "valueId": "FUNCTION_OPQA",
+        "valueLabel": "OPQA Quality Assurance"
+      },
+      {
+        "fieldId": "657cc8550d0b1f2ef38a3fc9",
+        "fieldLabel": "City",
+        "valueId": "Singapore",
+        "valueLabel": "Singapore"
+      },
+      {
+        "fieldId": "657ccabf0d0b1f2ef38a3fce",
+        "fieldLabel": "Segment 5 (Maximum)",
+        "valueId": "0",
+        "valueLabel": "0"
+      },
+      {
+        "fieldId": "656747e5a29e121ffd619b85",
+        "fieldLabel": "Brands",
+        "valueId": "default",
+        "valueLabel": "AbbVie"
+      },
+      {
+        "fieldId": "COUNTRY",
+        "fieldLabel": "Country/Region",
+        "valueId": "sg",
+        "valueLabel": "Singapore"
+      },
+      {
+        "fieldId": "657cca530d0b1f2ef38a3fcc",
+        "fieldLabel": "Segment 1 (Minimum)",
+        "valueId": "0",
+        "valueLabel": "0"
+      },
+      {
+        "fieldId": "657ccc1c0d0b1f2ef38a3fda",
+        "fieldLabel": "Workday Job Family",
+        "valueId": "Job_Family_Administrative_Services",
+        "valueLabel": "Administrative Services"
+      },
+      {
+        "fieldId": "657ccc483fd51d6d84c0bc3c",
+        "fieldLabel": "Posting Grade",
+        "valueId": "COMPENSATIONGRADE_00",
+        "valueLabel": "00"
+      },
+      {
+        "fieldId": "65806674cbfd1911c2f5d15b",
+        "fieldLabel": "Hiring Manager",
+        "valueId": "15069480",
+        "valueLabel": "Swee Chiat Tan (15069480)"
+      },
+      {
+        "fieldId": "657ccbce3fd51d6d84c0bc3a",
+        "fieldLabel": "Workday Global Grade",
+        "valueId": "COMPENSATIONGRADE_00",
+        "valueLabel": "00"
+      },
+      {
+        "fieldId": "6580668ecbfd1911c2f5d15c",
+        "fieldLabel": "Hiring Manager Title",
+        "valueId": "Manager Quality Operation (Bio)",
+        "valueLabel": "Manager Quality Operation (Bio)"
+      },
+      {
+        "fieldId": "6580763744b74c1731e95352",
+        "fieldLabel": "Parent Function",
+        "valueId": "FUNCTION_OPER",
+        "valueLabel": "OPER Operations"
+      },
+      {
+        "fieldId": "657ccc330d0b1f2ef38a3fdb",
+        "fieldLabel": "Salary/Hourly Pay Indicator",
+        "valueId": "Salaried",
+        "valueLabel": "Salaried"
+      },
+      {
+        "fieldId": "657cc8220d0b1f2ef38a3fc8",
+        "fieldLabel": "Workday Country",
+        "valueId": "SG",
+        "valueLabel": "Singapore"
+      }
+    ],
+    "visibility": "PUBLIC",
+    "ref": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990015226016",
+    "language": {
+      "code": "en",
+      "label": "English",
+      "labelNative": "English (US)"
+    }
+  }
+]
