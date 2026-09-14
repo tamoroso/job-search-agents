@@ -1,0 +1,1712 @@
+segments:
+  biotech_healthtech:
+  - ats_slug: isomorphiclabs
+    ats_type: greenhouse
+    country: UK
+    domain: isomorphiclabs.com
+    name: Isomorphic Labs
+    resolved_at: '2026-09-14T10:07:56.169534+00:00'
+    status: resolved
+  - ats_slug: instadeep
+    ats_type: workable
+    country: UK
+    domain: instadeep.com
+    name: InstaDeep
+    resolved_at: '2026-09-14T10:18:12.902354+00:00'
+    status: resolved
+  - ats_slug: cradle
+    ats_type: workable
+    country: NL
+    domain: cradle.bio
+    name: Cradle Bio
+    resolved_at: '2026-09-14T10:18:12.919351+00:00'
+    status: resolved
+  - ats_slug: benevolent
+    ats_type: workable
+    country: UK
+    domain: benevolent.com
+    name: BenevolentAI
+    resolved_at: '2026-09-14T10:18:13.987755+00:00'
+    status: resolved
+  - ats_slug: recursion
+    ats_type: workable
+    country: US
+    domain: recursion.com
+    name: Recursion
+    resolved_at: '2026-09-14T10:18:14.058261+00:00'
+    status: resolved
+  - ats_slug: sophiagenetics
+    ats_type: smartrecruiters
+    country: CH
+    domain: sophiagenetics.com
+    name: SOPHiA GENETICS
+    resolved_at: '2026-09-14T10:21:19.931397+00:00'
+    status: resolved
+  - ats_slug: basecamp-research
+    ats_type: ashby
+    country: UK
+    domain: basecamp-research.com
+    name: Basecamp Research
+    resolved_at: '2026-09-14T10:09:41.996368+00:00'
+    status: resolved
+  - ats_slug: labgeni
+    ats_type: smartrecruiters
+    country: UK
+    domain: labgeni.us
+    name: LabGenius
+    resolved_at: '2026-09-14T10:21:19.144319+00:00'
+    status: resolved
+  - ats_slug: ochre-bio
+    ats_type: smartrecruiters
+    country: UK
+    domain: ochre-bio.com
+    name: Ochre Bio
+    resolved_at: '2026-09-14T10:21:20.067264+00:00'
+    status: resolved
+  - ats_slug: dnascript
+    ats_type: greenhouse
+    country: FR
+    domain: dnascript.com
+    name: DNA Script
+    resolved_at: '2026-09-14T10:07:58.432693+00:00'
+    status: resolved
+  - ats_slug: abolis
+    ats_type: smartrecruiters
+    country: FR
+    domain: abolis.fr
+    name: Abolis Biotechnologies
+    resolved_at: '2026-09-14T10:21:21.131200+00:00'
+    status: resolved
+  - ats_slug: eligo
+    ats_type: smartrecruiters
+    country: FR
+    domain: eligo.bio
+    name: Eligo Bioscience
+    resolved_at: '2026-09-14T10:21:20.987480+00:00'
+    status: resolved
+  - ats_slug: enterome
+    ats_type: smartrecruiters
+    country: FR
+    domain: enterome.com
+    name: Enterome
+    resolved_at: '2026-09-14T10:21:21.260002+00:00'
+    status: resolved
+  - ats_slug: cellectis
+    ats_type: smartrecruiters
+    country: FR
+    domain: cellectis.com
+    name: Cellectis
+    resolved_at: '2026-09-14T10:21:20.198677+00:00'
+    status: resolved
+  - ats_slug: nanobiotix
+    ats_type: smartrecruiters
+    country: FR
+    domain: nanobiotix.com
+    name: Nanobiotix
+    resolved_at: '2026-09-14T10:21:26.075302+00:00'
+    status: resolved
+  - ats_slug: sensorion
+    ats_type: smartrecruiters
+    country: FR
+    domain: sensorion.com
+    name: Sensorion
+    resolved_at: '2026-09-14T10:21:59.879676+00:00'
+    status: resolved
+  - ats_slug: gensight-biologics
+    ats_type: smartrecruiters
+    country: FR
+    domain: gensight-biologics.com
+    name: GenSight Biologics
+    resolved_at: '2026-09-14T10:21:23.279695+00:00'
+    status: resolved
+  - ats_slug: stilla
+    ats_type: smartrecruiters
+    country: FR
+    domain: stilla.com
+    name: Stilla Technologies
+    resolved_at: '2026-09-14T10:21:23.132392+00:00'
+    status: resolved
+  - ats_slug: depixus
+    ats_type: smartrecruiters
+    country: FR
+    domain: depixus.com
+    name: Depixus
+    resolved_at: '2026-09-14T10:21:22.216366+00:00'
+    status: resolved
+  - ats_slug: tissium
+    ats_type: smartrecruiters
+    country: FR
+    domain: tissium.com
+    name: Tissium
+    resolved_at: '2026-09-14T10:21:22.340548+00:00'
+    status: resolved
+  - ats_slug: egle-tx
+    ats_type: smartrecruiters
+    country: FR
+    domain: egle-tx.com
+    name: Egle Therapeutics
+    resolved_at: '2026-09-14T10:21:22.052298+00:00'
+    status: resolved
+  - ats_slug: alderaan-biotech
+    ats_type: smartrecruiters
+    country: FR
+    domain: alderaan-biotech.com
+    name: Alderaan Biotechnology
+    resolved_at: '2026-09-14T10:21:25.304839+00:00'
+    status: resolved
+  - ats_slug: voltamedical
+    ats_type: smartrecruiters
+    country: FR
+    domain: voltamedical.com
+    name: Volta Medical
+    resolved_at: '2026-09-14T10:21:24.338520+00:00'
+    status: resolved
+  - ats_slug: implicity
+    ats_type: smartrecruiters
+    country: FR
+    domain: implicity.com
+    name: Implicity
+    resolved_at: '2026-09-14T10:21:24.213893+00:00'
+    status: resolved
+  - ats_slug: synapse-medicine
+    ats_type: smartrecruiters
+    country: FR
+    domain: synapse-medicine.com
+    name: Synapse Medicine
+    resolved_at: '2026-09-14T10:21:24.473166+00:00'
+    status: resolved
+  - ats_slug: lifen
+    ats_type: ashby
+    country: FR
+    domain: lifen.health
+    name: Lifen
+    resolved_at: '2026-09-14T10:09:45.501844+00:00'
+    status: resolved
+  - ats_slug: quantumsurgical
+    ats_type: smartrecruiters
+    country: FR
+    domain: quantumsurgical.com
+    name: Quantum Surgical
+    resolved_at: '2026-09-14T10:21:23.398416+00:00'
+    status: resolved
+  - ats_slug: moonsurgical
+    ats_type: smartrecruiters
+    country: FR
+    domain: moonsurgical.com
+    name: Moon Surgical
+    resolved_at: '2026-09-14T10:21:25.413816+00:00'
+    status: resolved
+  - ats_slug: resilience
+    ats_type: greenhouse
+    country: FR
+    domain: resilience.care
+    name: Resilience
+    resolved_at: '2026-09-14T10:08:04.867699+00:00'
+    status: resolved
+  - ats_slug: biontech
+    ats_type: workable
+    country: DE
+    domain: biontech.com
+    name: BioNTech
+    resolved_at: '2026-09-14T10:20:49.011994+00:00'
+    status: resolved
+  - ats_slug: curevac
+    ats_type: smartrecruiters
+    country: DE
+    domain: curevac.com
+    name: CureVac
+    resolved_at: '2026-09-14T10:21:25.536775+00:00'
+    status: resolved
+  - ats_slug: evotec
+    ats_type: workable
+    country: DE
+    domain: evotec.com
+    name: Evotec
+    resolved_at: '2026-09-14T10:20:48.991405+00:00'
+    status: resolved
+  - ats_slug: nuclera
+    ats_type: workable
+    country: UK
+    domain: nuclera.com
+    name: Nuclera
+    resolved_at: '2026-09-14T10:20:49.021944+00:00'
+    status: resolved
+  - ats_slug: bit
+    ats_type: smartrecruiters
+    country: UK
+    domain: bit.bio
+    name: bit.bio
+    resolved_at: '2026-09-14T10:21:26.362798+00:00'
+    status: resolved
+  conseil_data_fr:
+  - ats_slug: artefact
+    ats_type: greenhouse
+    country: FR
+    domain: artefact.com
+    name: Artefact
+    resolved_at: '2026-09-14T10:07:25.137946+00:00'
+    status: resolved
+  - ats_slug: sicara
+    ats_type: smartrecruiters
+    country: FR
+    domain: sicara.fr
+    name: Sicara
+    resolved_at: '2026-09-14T10:21:03.014135+00:00'
+    status: resolved
+  - ats_slug: theodo
+    ats_type: lever
+    country: FR
+    domain: theodo.fr
+    name: Theodo
+    resolved_at: '2026-09-14T10:08:33.036689+00:00'
+    status: resolved
+  - ats_slug: ekimetrics
+    ats_type: lever
+    country: FR
+    domain: ekimetrics.com
+    name: Ekimetrics
+    resolved_at: '2026-09-14T10:08:32.020996+00:00'
+    status: resolved
+  - ats_slug: octo
+    ats_type: smartrecruiters
+    country: FR
+    domain: octo.com
+    name: OCTO Technology
+    resolved_at: '2026-09-14T10:21:03.942371+00:00'
+    status: resolved
+  - ats_slug: lajavaness
+    ats_type: smartrecruiters
+    country: FR
+    domain: lajavaness.com
+    name: La Javaness
+    resolved_at: '2026-09-14T10:21:05.003256+00:00'
+    status: resolved
+  - ats_slug: numberly
+    ats_type: smartrecruiters
+    country: FR
+    domain: numberly.com
+    name: Numberly
+    resolved_at: '2026-09-14T10:21:04.108209+00:00'
+    status: resolved
+  - ats_slug: fifty-five
+    ats_type: workable
+    country: FR
+    domain: fifty-five.com
+    name: fifty-five
+    resolved_at: '2026-09-14T10:10:02.597647+00:00'
+    status: resolved
+  - ats_slug: zenika
+    ats_type: workable
+    country: FR
+    domain: zenika.com
+    name: Zenika
+    resolved_at: '2026-09-14T10:10:02.691797+00:00'
+    status: resolved
+  - ats_slug: ippon
+    ats_type: lever
+    country: FR
+    domain: ippon.tech
+    name: Ippon Technologies
+    resolved_at: '2026-09-14T10:08:34.188229+00:00'
+    status: resolved
+  - ats_slug: groupeonepoint
+    ats_type: smartrecruiters
+    country: FR
+    domain: groupeonepoint.com
+    name: Onepoint
+    resolved_at: '2026-09-14T10:21:06.055844+00:00'
+    status: resolved
+  - ats_slug: devoteam
+    ats_type: workable
+    country: FR
+    domain: devoteam.com
+    name: Devoteam
+    resolved_at: '2026-09-14T10:10:02.582517+00:00'
+    status: resolved
+  grands_comptes_fr:
+  - ats_slug: orange
+    ats_type: workable
+    country: FR
+    domain: orange.com
+    name: Orange
+    resolved_at: '2026-09-14T10:11:14.926664+00:00'
+    status: resolved
+  - ats_slug: thalesgroup
+    ats_type: smartrecruiters
+    country: FR
+    domain: thalesgroup.com
+    name: Thales
+    resolved_at: '2026-09-14T10:21:05.166515+00:00'
+    status: resolved
+  - ats_slug: airbus
+    ats_type: workable
+    country: FR
+    domain: airbus.com
+    name: Airbus
+    resolved_at: '2026-09-14T10:11:14.934130+00:00'
+    status: resolved
+  - ats_slug: safran-group
+    ats_type: smartrecruiters
+    country: FR
+    domain: safran-group.com
+    name: Safran
+    resolved_at: '2026-09-14T10:21:06.230914+00:00'
+    status: resolved
+  - ats_slug: 3ds
+    ats_type: workable
+    country: FR
+    domain: 3ds.com
+    name: Dassault Systèmes
+    resolved_at: '2026-09-14T10:11:15.002529+00:00'
+    status: resolved
+  - ats_slug: renaultgroup
+    ats_type: smartrecruiters
+    country: FR
+    domain: renaultgroup.com
+    name: Renault Group
+    resolved_at: '2026-09-14T10:21:07.285215+00:00'
+    status: resolved
+  - ats_slug: stellantis
+    ats_type: smartrecruiters
+    country: FR
+    domain: stellantis.com
+    name: Stellantis
+    resolved_at: '2026-09-14T10:21:07.169254+00:00'
+    status: resolved
+  - ats_slug: michelin
+    ats_type: workable
+    country: FR
+    domain: michelin.com
+    name: Michelin
+    resolved_at: '2026-09-14T10:11:23.259650+00:00'
+    status: resolved
+  - ats_slug: totalenergies
+    ats_type: smartrecruiters
+    country: FR
+    domain: totalenergies.com
+    name: TotalEnergies
+    resolved_at: '2026-09-14T10:21:08.230604+00:00'
+    status: resolved
+  - ats_slug: edf
+    ats_type: workable
+    country: FR
+    domain: edf.fr
+    name: EDF
+    resolved_at: '2026-09-14T10:11:23.282689+00:00'
+    status: resolved
+  - ats_slug: sncf
+    ats_type: smartrecruiters
+    country: FR
+    domain: sncf.com
+    name: SNCF
+    resolved_at: '2026-09-14T10:21:08.370473+00:00'
+    status: resolved
+  - ats_slug: group
+    ats_type: workable
+    country: FR
+    domain: group.bnpparibas
+    name: BNP Paribas
+    resolved_at: '2026-09-14T10:11:23.249478+00:00'
+    status: resolved
+  - ats_slug: societegenerale
+    ats_type: smartrecruiters
+    country: FR
+    domain: societegenerale.com
+    name: Société Générale
+    resolved_at: '2026-09-14T10:21:09.513677+00:00'
+    status: resolved
+  - ats_slug: credit-agricole
+    ats_type: smartrecruiters
+    country: FR
+    domain: credit-agricole.com
+    name: Crédit Agricole
+    resolved_at: '2026-09-14T10:21:09.431289+00:00'
+    status: resolved
+  - ats_slug: axa
+    ats_type: smartrecruiters
+    country: FR
+    domain: axa.com
+    name: AXA
+    resolved_at: '2026-09-14T10:21:10.350322+00:00'
+    status: resolved
+  - ats_slug: capgemini
+    ats_type: smartrecruiters
+    country: FR
+    domain: capgemini.com
+    name: Capgemini
+    resolved_at: '2026-09-14T10:21:09.284616+00:00'
+    status: resolved
+  - ats_slug: soprasteria
+    ats_type: workable
+    country: FR
+    domain: soprasteria.com
+    name: Sopra Steria
+    resolved_at: '2026-09-14T10:12:41.201476+00:00'
+    status: resolved
+  - ats_slug: loreal
+    ats_type: smartrecruiters
+    country: FR
+    domain: loreal.com
+    name: L'Oréal
+    resolved_at: '2026-09-14T10:21:08.454427+00:00'
+    status: resolved
+  - ats_slug: carrefour
+    ats_type: workable
+    country: FR
+    domain: carrefour.com
+    name: Carrefour
+    resolved_at: '2026-09-14T10:12:41.252858+00:00'
+    status: resolved
+  - ats_slug: decathlon
+    ats_type: workable
+    country: FR
+    domain: decathlon.com
+    name: Decathlon
+    resolved_at: '2026-09-14T10:12:41.210482+00:00'
+    status: resolved
+  - ats_slug: vinci
+    ats_type: ashby
+    country: FR
+    domain: vinci.com
+    name: Vinci
+    resolved_at: '2026-09-14T10:09:24.640139+00:00'
+    status: resolved
+  - ats_slug: inria
+    ats_type: workable
+    country: FR
+    domain: inria.fr
+    name: Inria
+    resolved_at: '2026-09-14T10:12:41.207972+00:00'
+    status: resolved
+  ia_eu:
+  - ats_slug: deepl
+    ats_type: ashby
+    country: DE
+    domain: deepl.com
+    name: DeepL
+    resolved_at: '2026-09-14T10:09:25.210851+00:00'
+    status: resolved
+  - ats_slug: aleph-alpha
+    ats_type: smartrecruiters
+    country: DE
+    domain: aleph-alpha.com
+    name: Aleph Alpha
+    resolved_at: '2026-09-14T10:21:10.500464+00:00'
+    status: resolved
+  - ats_slug: bfl
+    ats_type: workable
+    country: DE
+    domain: bfl.ai
+    name: Black Forest Labs
+    resolved_at: '2026-09-14T10:12:42.326969+00:00'
+    status: resolved
+  - ats_slug: parloa
+    ats_type: greenhouse
+    country: DE
+    domain: parloa.com
+    name: Parloa
+    resolved_at: '2026-09-14T10:07:34.278912+00:00'
+    status: resolved
+  - ats_slug: qdrant
+    ats_type: workable
+    country: DE
+    domain: qdrant.tech
+    name: Qdrant
+    resolved_at: '2026-09-14T10:12:42.302462+00:00'
+    status: resolved
+  - ats_slug: weaviate
+    ats_type: ashby
+    country: NL
+    domain: weaviate.io
+    name: Weaviate
+    resolved_at: '2026-09-14T10:09:26.253320+00:00'
+    status: resolved
+  - ats_slug: neptune
+    ats_type: ashby
+    country: PL
+    domain: neptune.ai
+    name: Neptune.ai
+    resolved_at: '2026-09-14T10:09:26.383997+00:00'
+    status: resolved
+  - ats_slug: elevenlabs
+    ats_type: ashby
+    country: UK
+    domain: elevenlabs.io
+    name: ElevenLabs
+    resolved_at: '2026-09-14T10:09:26.383108+00:00'
+    status: resolved
+  - ats_slug: synthesia
+    ats_type: ashby
+    country: UK
+    domain: synthesia.io
+    name: Synthesia
+    resolved_at: '2026-09-14T10:09:26.832659+00:00'
+    status: resolved
+  - ats_slug: stability
+    ats_type: workable
+    country: UK
+    domain: stability.ai
+    name: Stability AI
+    resolved_at: '2026-09-14T10:12:42.403983+00:00'
+    status: resolved
+  - ats_slug: wayve
+    ats_type: greenhouse
+    country: UK
+    domain: wayve.ai
+    name: Wayve
+    resolved_at: '2026-09-14T10:07:35.813509+00:00'
+    status: resolved
+  - ats_slug: poly
+    ats_type: workable
+    country: UK
+    domain: poly.ai
+    name: PolyAI
+    resolved_at: '2026-09-14T10:12:42.404141+00:00'
+    status: resolved
+  - ats_slug: tractable
+    ats_type: ashby
+    country: UK
+    domain: tractable.ai
+    name: Tractable
+    resolved_at: '2026-09-14T10:09:27.523315+00:00'
+    status: resolved
+  - ats_slug: faculty
+    ats_type: ashby
+    country: UK
+    domain: faculty.ai
+    name: Faculty
+    resolved_at: '2026-09-14T10:09:27.432719+00:00'
+    status: resolved
+  - ats_slug: quantexa
+    ats_type: ashby
+    country: UK
+    domain: quantexa.com
+    name: Quantexa
+    resolved_at: '2026-09-14T10:09:28.329835+00:00'
+    status: resolved
+  - ats_slug: speechmatics
+    ats_type: greenhouse
+    country: UK
+    domain: speechmatics.com
+    name: Speechmatics
+    resolved_at: '2026-09-14T10:07:36.938511+00:00'
+    status: resolved
+  - ats_slug: graphcore
+    ats_type: greenhouse
+    country: UK
+    domain: graphcore.ai
+    name: Graphcore
+    resolved_at: '2026-09-14T10:07:37.111532+00:00'
+    status: resolved
+  - ats_slug: cohere
+    ats_type: ashby
+    country: CA
+    domain: cohere.com
+    name: Cohere
+    resolved_at: '2026-09-14T10:09:28.020622+00:00'
+    status: resolved
+  ia_verticale_fr:
+  - ats_slug: owkin
+    ats_type: ashby
+    country: FR
+    domain: owkin.com
+    name: Owkin
+    resolved_at: '2026-09-14T10:09:08.350021+00:00'
+    status: resolved
+  - ats_slug: bioptimus
+    ats_type: smartrecruiters
+    country: FR
+    domain: bioptimus.com
+    name: Bioptimus
+    resolved_at: '2026-09-14T10:20:53.298353+00:00'
+    status: resolved
+  - ats_slug: aqemia
+    ats_type: smartrecruiters
+    country: FR
+    domain: aqemia.com
+    name: Aqemia
+    resolved_at: '2026-09-14T10:20:53.366209+00:00'
+    status: resolved
+  - ats_slug: iktos
+    ats_type: smartrecruiters
+    country: FR
+    domain: iktos.ai
+    name: Iktos
+    resolved_at: '2026-09-14T10:20:54.368019+00:00'
+    status: resolved
+  - ats_slug: gleamer
+    ats_type: smartrecruiters
+    country: FR
+    domain: gleamer.ai
+    name: Gleamer
+    resolved_at: '2026-09-14T10:20:55.425716+00:00'
+    status: resolved
+  - ats_slug: incepto-medical
+    ats_type: smartrecruiters
+    country: FR
+    domain: incepto-medical.com
+    name: Incepto
+    resolved_at: '2026-09-14T10:20:54.423160+00:00'
+    status: resolved
+  - ats_slug: therapixel
+    ats_type: smartrecruiters
+    country: FR
+    domain: therapixel.com
+    name: Therapixel
+    resolved_at: '2026-09-14T10:20:55.481302+00:00'
+    status: resolved
+  - ats_slug: raidium
+    ats_type: lever
+    country: FR
+    domain: raidium.fr
+    name: Raidium
+    resolved_at: '2026-09-14T10:08:15.980884+00:00'
+    status: resolved
+  - ats_slug: nabla
+    ats_type: ashby
+    country: FR
+    domain: nabla.com
+    name: Nabla
+    resolved_at: '2026-09-14T10:09:09.318761+00:00'
+    status: resolved
+  - ats_slug: dental-monitoring
+    ats_type: smartrecruiters
+    country: FR
+    domain: dental-monitoring.com
+    name: Dental Monitoring
+    resolved_at: '2026-09-14T10:20:56.494721+00:00'
+    status: resolved
+  - ats_slug: withings
+    ats_type: workable
+    country: FR
+    domain: withings.com
+    name: Withings
+    resolved_at: '2026-09-14T10:09:52.221418+00:00'
+    status: resolved
+  - ats_slug: shift-technology
+    ats_type: smartrecruiters
+    country: FR
+    domain: shift-technology.com
+    name: Shift Technology
+    resolved_at: '2026-09-14T10:20:56.548904+00:00'
+    status: resolved
+  - ats_slug: akur8
+    ats_type: ashby
+    country: FR
+    domain: akur8.com
+    name: Akur8
+    resolved_at: '2026-09-14T10:09:10.377933+00:00'
+    status: resolved
+  - ats_slug: zelros
+    ats_type: smartrecruiters
+    country: FR
+    domain: zelros.com
+    name: Zelros
+    resolved_at: '2026-09-14T10:20:58.612532+00:00'
+    status: resolved
+  - ats_slug: descartesunderwriting
+    ats_type: smartrecruiters
+    country: FR
+    domain: descartesunderwriting.com
+    name: Descartes Underwriting
+    resolved_at: '2026-09-14T10:20:57.555259+00:00'
+    status: resolved
+  - ats_slug: deepki
+    ats_type: workable
+    country: FR
+    domain: deepki.com
+    name: Deepki
+    resolved_at: '2026-09-14T10:09:52.833294+00:00'
+    status: resolved
+  - ats_slug: kayrros
+    ats_type: smartrecruiters
+    country: FR
+    domain: kayrros.com
+    name: Kayrros
+    resolved_at: '2026-09-14T10:20:57.629649+00:00'
+    status: resolved
+  - ats_slug: safran
+    ats_type: workable
+    country: FR
+    domain: safran.ai
+    name: Safran.AI
+    resolved_at: '2026-09-14T10:09:53.960510+00:00'
+    status: resolved
+  - ats_slug: helsing
+    ats_type: greenhouse
+    country: DE
+    domain: helsing.ai
+    name: Helsing
+    resolved_at: '2026-09-14T10:07:13.277771+00:00'
+    status: resolved
+  - ats_slug: exotec
+    ats_type: workable
+    country: FR
+    domain: exotec.com
+    name: Exotec
+    resolved_at: '2026-09-14T10:09:53.477807+00:00'
+    status: resolved
+  - ats_slug: wandercraft
+    ats_type: smartrecruiters
+    country: FR
+    domain: wandercraft.eu
+    name: Wandercraft
+    resolved_at: '2026-09-14T10:20:58.686742+00:00'
+    status: resolved
+  - ats_slug: pasqal
+    ats_type: workable
+    country: FR
+    domain: pasqal.com
+    name: Pasqal
+    resolved_at: '2026-09-14T10:09:54.486463+00:00'
+    status: resolved
+  - ats_slug: quandela
+    ats_type: workable
+    country: FR
+    domain: quandela.com
+    name: Quandela
+    resolved_at: '2026-09-14T10:09:54.308601+00:00'
+    status: resolved
+  - ats_slug: alice-bob
+    ats_type: lever
+    country: FR
+    domain: alice-bob.com
+    name: Alice & Bob
+    resolved_at: '2026-09-14T10:08:20.227575+00:00'
+    status: resolved
+  llm_infra_fr:
+  - ats_slug: mistral
+    ats_type: lever
+    country: FR
+    domain: mistral.ai
+    name: Mistral AI
+    resolved_at: '2026-09-14T10:08:07.711202+00:00'
+    status: resolved
+  - ats_slug: huggingface
+    ats_type: workable
+    country: FR
+    domain: huggingface.co
+    name: Hugging Face
+    resolved_at: '2026-09-14T10:09:47.182811+00:00'
+    status: resolved
+  - ats_slug: emilabs
+    ats_type: lever
+    country: FR
+    domain: null
+    name: Emilabs
+    resolved_at: '2026-09-14T10:08:09.807995+00:00'
+    status: resolved
+  - ats_slug: kyutai
+    ats_type: smartrecruiters
+    country: FR
+    domain: kyutai.org
+    name: Kyutai
+    resolved_at: '2026-09-14T10:20:50.136956+00:00'
+    status: resolved
+  - ats_slug: lighton
+    ats_type: workable
+    country: FR
+    domain: lighton.ai
+    name: LightOn
+    resolved_at: '2026-09-14T10:09:47.644260+00:00'
+    status: resolved
+  - ats_slug: dust
+    ats_type: ashby
+    country: FR
+    domain: dust.tt
+    name: Dust
+    resolved_at: '2026-09-14T10:09:04.851345+00:00'
+    status: resolved
+  - ats_slug: h
+    ats_type: workable
+    country: FR
+    domain: h.company
+    name: H
+    resolved_at: '2026-09-14T10:09:47.893097+00:00'
+    status: resolved
+  - ats_slug: poolside
+    ats_type: ashby
+    country: FR
+    domain: poolside.ai
+    name: Poolside
+    resolved_at: '2026-09-14T10:09:04.961744+00:00'
+    status: resolved
+  - ats_slug: adaptive-ml
+    ats_type: smartrecruiters
+    country: FR
+    domain: adaptive-ml.com
+    name: Adaptive ML
+    resolved_at: '2026-09-14T10:20:50.136801+00:00'
+    status: resolved
+  - ats_slug: giskard
+    ats_type: workable
+    country: FR
+    domain: giskard.ai
+    name: Giskard
+    resolved_at: '2026-09-14T10:09:48.672863+00:00'
+    status: resolved
+  - ats_slug: probabl
+    ats_type: smartrecruiters
+    country: FR
+    domain: probabl.ai
+    name: Probabl
+    resolved_at: '2026-09-14T10:20:50.114222+00:00'
+    status: resolved
+  - ats_slug: zama
+    ats_type: smartrecruiters
+    country: FR
+    domain: zama.ai
+    name: Zama
+    resolved_at: '2026-09-14T10:20:51.196151+00:00'
+    status: resolved
+  - ats_slug: kili-technology
+    ats_type: smartrecruiters
+    country: FR
+    domain: kili-technology.com
+    name: Kili Technology
+    resolved_at: '2026-09-14T10:20:51.176925+00:00'
+    status: resolved
+  - ats_slug: photoroom
+    ats_type: ashby
+    country: FR
+    domain: photoroom.com
+    name: PhotoRoom
+    resolved_at: '2026-09-14T10:09:07.689793+00:00'
+    status: resolved
+  - ats_slug: sinequa
+    ats_type: smartrecruiters
+    country: FR
+    domain: sinequa.com
+    name: Sinequa
+    resolved_at: '2026-09-14T10:20:52.237973+00:00'
+    status: resolved
+  - ats_slug: golem
+    ats_type: smartrecruiters
+    country: FR
+    domain: golem.ai
+    name: Golem.ai
+    resolved_at: '2026-09-14T10:20:52.306518+00:00'
+    status: resolved
+  - ats_slug: qwant
+    ats_type: workable
+    country: FR
+    domain: qwant.com
+    name: Qwant
+    resolved_at: '2026-09-14T10:09:50.931482+00:00'
+    status: resolved
+  pharma_grands_comptes:
+  - ats_slug: sanofi
+    ats_type: workable
+    country: FR
+    domain: sanofi.com
+    name: Sanofi
+    resolved_at: '2026-09-14T10:14:36.055258+00:00'
+    status: resolved
+  - ats_slug: servier
+    ats_type: workable
+    country: FR
+    domain: servier.com
+    name: Servier
+    resolved_at: '2026-09-14T10:14:36.028031+00:00'
+    status: resolved
+  - ats_slug: ipsen
+    ats_type: smartrecruiters
+    country: FR
+    domain: ipsen.com
+    name: Ipsen
+    resolved_at: '2026-09-14T10:21:13.844337+00:00'
+    status: resolved
+  - ats_slug: pierre-fabre
+    ats_type: workable
+    country: FR
+    domain: pierre-fabre.com
+    name: Pierre Fabre
+    resolved_at: '2026-09-14T10:14:36.070187+00:00'
+    status: resolved
+  - ats_slug: biomerieux
+    ats_type: smartrecruiters
+    country: FR
+    domain: biomerieux.com
+    name: bioMérieux
+    resolved_at: '2026-09-14T10:21:14.897428+00:00'
+    status: resolved
+  - ats_slug: guerbet
+    ats_type: smartrecruiters
+    country: FR
+    domain: guerbet.com
+    name: Guerbet
+    resolved_at: '2026-09-14T10:21:15.806593+00:00'
+    status: resolved
+  - ats_slug: groupe-lfb
+    ats_type: smartrecruiters
+    country: FR
+    domain: groupe-lfb.com
+    name: LFB
+    resolved_at: '2026-09-14T10:21:14.748317+00:00'
+    status: resolved
+  - ats_slug: euroapi
+    ats_type: smartrecruiters
+    country: FR
+    domain: euroapi.com
+    name: EUROAPI
+    resolved_at: '2026-09-14T10:21:15.686504+00:00'
+    status: resolved
+  - ats_slug: seqens
+    ats_type: smartrecruiters
+    country: FR
+    domain: seqens.com
+    name: Seqens
+    resolved_at: '2026-09-14T10:21:14.632419+00:00'
+    status: resolved
+  - ats_slug: urgo
+    ats_type: smartrecruiters
+    country: FR
+    domain: urgo.com
+    name: Urgo
+    resolved_at: '2026-09-14T10:21:15.962460+00:00'
+    status: resolved
+  - ats_slug: virbac
+    ats_type: smartrecruiters
+    country: FR
+    domain: virbac.com
+    name: Virbac
+    resolved_at: '2026-09-14T10:21:17.017441+00:00'
+    status: resolved
+  - ats_slug: vetoquinol
+    ats_type: smartrecruiters
+    country: FR
+    domain: vetoquinol.com
+    name: Vetoquinol
+    resolved_at: '2026-09-14T10:21:17.941800+00:00'
+    status: resolved
+  - ats_slug: galderma
+    ats_type: smartrecruiters
+    country: CH
+    domain: galderma.com
+    name: Galderma
+    resolved_at: '2026-09-14T10:21:16.865909+00:00'
+    status: resolved
+  - ats_slug: sartorius
+    ats_type: smartrecruiters
+    country: DE
+    domain: sartorius.com
+    name: Sartorius Stedim Biotech
+    resolved_at: '2026-09-14T10:21:16.737345+00:00'
+    status: resolved
+  - ats_slug: roche
+    ats_type: smartrecruiters
+    country: CH
+    domain: roche.com
+    name: Roche
+    resolved_at: '2026-09-14T10:21:17.795966+00:00'
+    status: resolved
+  - ats_slug: novartis
+    ats_type: smartrecruiters
+    country: CH
+    domain: novartis.com
+    name: Novartis
+    resolved_at: '2026-09-14T10:21:18.076214+00:00'
+    status: resolved
+  - ats_slug: sandoz
+    ats_type: workable
+    country: CH
+    domain: sandoz.com
+    name: Sandoz
+    resolved_at: '2026-09-14T10:17:33.184085+00:00'
+    status: resolved
+  - ats_slug: lonza
+    ats_type: workable
+    country: CH
+    domain: lonza.com
+    name: Lonza
+    resolved_at: '2026-09-14T10:16:27.125174+00:00'
+    status: resolved
+  - ats_slug: ferring
+    ats_type: smartrecruiters
+    country: CH
+    domain: ferring.com
+    name: Ferring
+    resolved_at: '2026-09-14T10:21:18.997168+00:00'
+    status: resolved
+  - ats_slug: bayer
+    ats_type: workable
+    country: DE
+    domain: bayer.com
+    name: Bayer
+    resolved_at: '2026-09-14T10:17:33.195463+00:00'
+    status: resolved
+  - ats_slug: boehringer-ingelheim
+    ats_type: workable
+    country: DE
+    domain: boehringer-ingelheim.com
+    name: Boehringer Ingelheim
+    resolved_at: '2026-09-14T10:17:33.246857+00:00'
+    status: resolved
+  - ats_slug: merckgroup
+    ats_type: smartrecruiters
+    country: DE
+    domain: merckgroup.com
+    name: Merck KGaA
+    resolved_at: '2026-09-14T10:21:18.879846+00:00'
+    status: resolved
+  - ats_slug: novonordisk
+    ats_type: workable
+    country: DK
+    domain: novonordisk.com
+    name: Novo Nordisk
+    resolved_at: '2026-09-14T10:18:11.774600+00:00'
+    status: resolved
+  - ats_slug: ucb
+    ats_type: workable
+    country: BE
+    domain: ucb.com
+    name: UCB
+    resolved_at: '2026-09-14T10:18:11.774250+00:00'
+    status: resolved
+  - ats_slug: gsk
+    ats_type: workable
+    country: UK
+    domain: gsk.com
+    name: GSK
+    resolved_at: '2026-09-14T10:18:11.774484+00:00'
+    status: resolved
+  - ats_slug: astrazeneca
+    ats_type: workable
+    country: UK
+    domain: astrazeneca.com
+    name: AstraZeneca
+    resolved_at: '2026-09-14T10:18:11.710831+00:00'
+    status: resolved
+  - ats_slug: pfizer
+    ats_type: workable
+    country: US
+    domain: pfizer.com
+    name: Pfizer
+    resolved_at: '2026-09-14T10:18:11.774372+00:00'
+    status: resolved
+  - ats_slug: msd
+    ats_type: workable
+    country: US
+    domain: msd.com
+    name: MSD
+    resolved_at: '2026-09-14T10:18:12.847944+00:00'
+    status: resolved
+  - ats_slug: jnj
+    ats_type: workable
+    country: US
+    domain: jnj.com
+    name: Johnson & Johnson
+    resolved_at: '2026-09-14T10:18:12.915244+00:00'
+    status: resolved
+  - ats_slug: takeda
+    ats_type: workable
+    country: JP
+    domain: takeda.com
+    name: Takeda
+    resolved_at: '2026-09-14T10:18:12.926231+00:00'
+    status: resolved
+  remote_first:
+  - ats_slug: gitlab
+    ats_type: greenhouse
+    country: US
+    domain: gitlab.com
+    name: GitLab
+    resolved_at: '2026-09-14T10:07:43.734356+00:00'
+    status: resolved
+  - ats_slug: automattic
+    ats_type: smartrecruiters
+    country: US
+    domain: automattic.com
+    name: Automattic
+    resolved_at: '2026-09-14T10:21:12.465242+00:00'
+    status: resolved
+  - ats_slug: canonical
+    ats_type: greenhouse
+    country: UK
+    domain: canonical.com
+    name: Canonical
+    resolved_at: '2026-09-14T10:07:44.563815+00:00'
+    status: resolved
+  - ats_slug: elastic
+    ats_type: greenhouse
+    country: NL
+    domain: elastic.co
+    name: Elastic
+    resolved_at: '2026-09-14T10:07:44.652413+00:00'
+    status: resolved
+  - ats_slug: grafana
+    ats_type: smartrecruiters
+    country: US
+    domain: grafana.com
+    name: Grafana Labs
+    resolved_at: '2026-09-14T10:21:11.682427+00:00'
+    status: resolved
+  - ats_slug: hashicorp
+    ats_type: workable
+    country: US
+    domain: hashicorp.com
+    name: HashiCorp
+    resolved_at: '2026-09-14T10:14:00.511220+00:00'
+    status: resolved
+  - ats_slug: sourcegraph
+    ats_type: smartrecruiters
+    country: US
+    domain: sourcegraph.com
+    name: Sourcegraph
+    resolved_at: '2026-09-14T10:21:12.633945+00:00'
+    status: resolved
+  - ats_slug: remote
+    ats_type: greenhouse
+    country: NL
+    domain: remote.com
+    name: Remote
+    resolved_at: '2026-09-14T10:07:45.680099+00:00'
+    status: resolved
+  - ats_slug: deel
+    ats_type: ashby
+    country: US
+    domain: deel.com
+    name: Deel
+    resolved_at: '2026-09-14T10:09:41.925938+00:00'
+    status: resolved
+  - ats_slug: doist
+    ats_type: workable
+    country: PT
+    domain: doist.com
+    name: Doist
+    resolved_at: '2026-09-14T10:14:00.503576+00:00'
+    status: resolved
+  - ats_slug: getdbt
+    ats_type: smartrecruiters
+    country: US
+    domain: getdbt.com
+    name: dbt Labs
+    resolved_at: '2026-09-14T10:21:13.576518+00:00'
+    status: resolved
+  - ats_slug: wandb
+    ats_type: smartrecruiters
+    country: US
+    domain: wandb.ai
+    name: Weights & Biases
+    resolved_at: '2026-09-14T10:21:13.694259+00:00'
+    status: resolved
+  - ats_slug: datadoghq
+    ats_type: smartrecruiters
+    country: US
+    domain: datadoghq.com
+    name: Datadog
+    resolved_at: '2026-09-14T10:21:12.775887+00:00'
+    status: resolved
+  - ats_slug: databricks
+    ats_type: greenhouse
+    country: US
+    domain: databricks.com
+    name: Databricks
+    resolved_at: '2026-09-14T10:07:46.930676+00:00'
+    status: resolved
+  - ats_slug: snowflake
+    ats_type: ashby
+    country: US
+    domain: snowflake.com
+    name: Snowflake
+    resolved_at: '2026-09-14T10:09:33.198549+00:00'
+    status: resolved
+  scaleups_eu:
+  - ats_slug: spotify
+    ats_type: lever
+    country: SE
+    domain: spotify.com
+    name: Spotify
+    resolved_at: '2026-09-14T10:08:43.085403+00:00'
+    status: resolved
+  - ats_slug: klarna
+    ats_type: workable
+    country: SE
+    domain: klarna.com
+    name: Klarna
+    resolved_at: '2026-09-14T10:12:43.421198+00:00'
+    status: resolved
+  - ats_slug: booking
+    ats_type: workable
+    country: NL
+    domain: booking.com
+    name: Booking.com
+    resolved_at: '2026-09-14T10:12:42.404257+00:00'
+    status: resolved
+  - ats_slug: adyen
+    ats_type: greenhouse
+    country: NL
+    domain: adyen.com
+    name: Adyen
+    resolved_at: '2026-09-14T10:07:38.232966+00:00'
+    status: resolved
+  - ats_slug: mollie
+    ats_type: ashby
+    country: NL
+    domain: mollie.com
+    name: Mollie
+    resolved_at: '2026-09-14T10:09:28.564051+00:00'
+    status: resolved
+  - ats_slug: picnic
+    ats_type: workable
+    country: NL
+    domain: picnic.app
+    name: Picnic
+    resolved_at: '2026-09-14T10:12:43.455784+00:00'
+    status: resolved
+  - ats_slug: miro
+    ats_type: ashby
+    country: NL
+    domain: miro.com
+    name: Miro
+    resolved_at: '2026-09-14T10:09:29.464350+00:00'
+    status: resolved
+  - ats_slug: zalando
+    ats_type: workable
+    country: DE
+    domain: zalando.com
+    name: Zalando
+    resolved_at: '2026-09-14T10:12:43.528397+00:00'
+    status: resolved
+  - ats_slug: deliveryhero
+    ats_type: workable
+    country: DE
+    domain: deliveryhero.com
+    name: Delivery Hero
+    resolved_at: '2026-09-14T10:12:43.539990+00:00'
+    status: resolved
+  - ats_slug: hellofresh
+    ats_type: greenhouse
+    country: DE
+    domain: hellofresh.com
+    name: HelloFresh
+    resolved_at: '2026-09-14T10:07:39.939283+00:00'
+    status: resolved
+  - ats_slug: n26
+    ats_type: greenhouse
+    country: DE
+    domain: n26.com
+    name: N26
+    resolved_at: '2026-09-14T10:07:39.907098+00:00'
+    status: resolved
+  - ats_slug: traderepublic
+    ats_type: greenhouse
+    country: DE
+    domain: traderepublic.com
+    name: Trade Republic
+    resolved_at: '2026-09-14T10:07:39.924629+00:00'
+    status: resolved
+  - ats_slug: celonis
+    ats_type: greenhouse
+    country: DE
+    domain: celonis.com
+    name: Celonis
+    resolved_at: '2026-09-14T10:07:40.298846+00:00'
+    status: resolved
+  - ats_slug: personio
+    ats_type: workable
+    country: DE
+    domain: personio.com
+    name: Personio
+    resolved_at: '2026-09-14T10:12:43.528266+00:00'
+    status: resolved
+  - ats_slug: sumup
+    ats_type: greenhouse
+    country: DE
+    domain: sumup.com
+    name: SumUp
+    resolved_at: '2026-09-14T10:07:41.039290+00:00'
+    status: resolved
+  - ats_slug: wise
+    ats_type: greenhouse
+    country: UK
+    domain: wise.com
+    name: Wise
+    resolved_at: '2026-09-14T10:07:41.040235+00:00'
+    status: resolved
+  - ats_slug: revolut
+    ats_type: workable
+    country: UK
+    domain: revolut.com
+    name: Revolut
+    resolved_at: '2026-09-14T10:12:44.668429+00:00'
+    status: resolved
+  - ats_slug: monzo
+    ats_type: greenhouse
+    country: UK
+    domain: monzo.com
+    name: Monzo
+    resolved_at: '2026-09-14T10:07:41.421883+00:00'
+    status: resolved
+  - ats_slug: checkout
+    ats_type: smartrecruiters
+    country: UK
+    domain: checkout.com
+    name: Checkout.com
+    resolved_at: '2026-09-14T10:21:10.567390+00:00'
+    status: resolved
+  - ats_slug: glovoapp
+    ats_type: smartrecruiters
+    country: ES
+    domain: glovoapp.com
+    name: Glovo
+    resolved_at: '2026-09-14T10:21:11.408761+00:00'
+    status: resolved
+  - ats_slug: factorialhr
+    ats_type: workable
+    country: ES
+    domain: factorialhr.com
+    name: Factorial
+    resolved_at: '2026-09-14T10:12:44.721621+00:00'
+    status: resolved
+  - ats_slug: typeform
+    ats_type: greenhouse
+    country: ES
+    domain: typeform.com
+    name: Typeform
+    resolved_at: '2026-09-14T10:07:42.337609+00:00'
+    status: resolved
+  - ats_slug: seedtag
+    ats_type: smartrecruiters
+    country: ES
+    domain: seedtag.com
+    name: Seedtag
+    resolved_at: '2026-09-14T10:21:11.563899+00:00'
+    status: resolved
+  - ats_slug: preply
+    ats_type: ashby
+    country: UA
+    domain: preply.com
+    name: Preply
+    resolved_at: '2026-09-14T10:09:30.759659+00:00'
+    status: resolved
+  - ats_slug: bolt
+    ats_type: ashby
+    country: EE
+    domain: bolt.eu
+    name: Bolt
+    resolved_at: '2026-09-14T10:09:31.690036+00:00'
+    status: resolved
+  - ats_slug: veriff
+    ats_type: greenhouse
+    country: EE
+    domain: veriff.com
+    name: Veriff
+    resolved_at: '2026-09-14T10:07:43.277338+00:00'
+    status: resolved
+  - ats_slug: wolt
+    ats_type: greenhouse
+    country: FI
+    domain: wolt.com
+    name: Wolt
+    resolved_at: '2026-09-14T10:07:43.554428+00:00'
+    status: resolved
+  scaleups_fr:
+  - ats_slug: doctolib
+    ats_type: greenhouse
+    country: FR
+    domain: doctolib.fr
+    name: Doctolib
+    resolved_at: '2026-09-14T10:07:14.440137+00:00'
+    status: resolved
+  - ats_slug: alan
+    ats_type: ashby
+    country: FR
+    domain: alan.com
+    name: Alan
+    resolved_at: '2026-09-14T10:09:12.634845+00:00'
+    status: resolved
+  - ats_slug: qonto
+    ats_type: lever
+    country: FR
+    domain: qonto.com
+    name: Qonto
+    resolved_at: '2026-09-14T10:08:21.382717+00:00'
+    status: resolved
+  - ats_slug: pennylane
+    ats_type: ashby
+    country: FR
+    domain: pennylane.com
+    name: Pennylane
+    resolved_at: '2026-09-14T10:09:12.744955+00:00'
+    status: resolved
+  - ats_slug: agicap
+    ats_type: lever
+    country: FR
+    domain: agicap.com
+    name: Agicap
+    resolved_at: '2026-09-14T10:08:21.102535+00:00'
+    status: resolved
+  - ats_slug: spendesk
+    ats_type: ashby
+    country: FR
+    domain: spendesk.com
+    name: Spendesk
+    resolved_at: '2026-09-14T10:09:12.863318+00:00'
+    status: resolved
+  - ats_slug: payfit
+    ats_type: smartrecruiters
+    country: FR
+    domain: payfit.com
+    name: Payfit
+    resolved_at: '2026-09-14T10:20:59.683107+00:00'
+    status: resolved
+  - ats_slug: swile
+    ats_type: lever
+    country: FR
+    domain: swile.co
+    name: Swile
+    resolved_at: '2026-09-14T10:08:21.866596+00:00'
+    status: resolved
+  - ats_slug: shine
+    ats_type: workable
+    country: FR
+    domain: shine.fr
+    name: Shine
+    resolved_at: '2026-09-14T10:09:55.100758+00:00'
+    status: resolved
+  - ats_slug: younited-credit
+    ats_type: smartrecruiters
+    country: FR
+    domain: younited-credit.com
+    name: Younited
+    resolved_at: '2026-09-14T10:20:59.753390+00:00'
+    status: resolved
+  - ats_slug: ledger
+    ats_type: lever
+    country: FR
+    domain: ledger.com
+    name: Ledger
+    resolved_at: '2026-09-14T10:08:22.566833+00:00'
+    status: resolved
+  - ats_slug: sorare
+    ats_type: ashby
+    country: FR
+    domain: sorare.com
+    name: Sorare
+    resolved_at: '2026-09-14T10:09:15.079551+00:00'
+    status: resolved
+  - ats_slug: blablacar
+    ats_type: lever
+    country: FR
+    domain: blablacar.com
+    name: BlaBlaCar
+    resolved_at: '2026-09-14T10:08:22.700739+00:00'
+    status: resolved
+  - ats_slug: backmarket
+    ats_type: ashby
+    country: FR
+    domain: backmarket.com
+    name: Back Market
+    resolved_at: '2026-09-14T10:09:13.780200+00:00'
+    status: resolved
+  - ats_slug: manomano
+    ats_type: workable
+    country: FR
+    domain: manomano.fr
+    name: ManoMano
+    resolved_at: '2026-09-14T10:09:55.444150+00:00'
+    status: resolved
+  - ats_slug: vestiairecollective
+    ats_type: lever
+    country: FR
+    domain: vestiairecollective.com
+    name: Vestiaire Collective
+    resolved_at: '2026-09-14T10:08:23.955728+00:00'
+    status: resolved
+  - ats_slug: veepee
+    ats_type: lever
+    country: FR
+    domain: veepee.com
+    name: Veepee
+    resolved_at: '2026-09-14T10:08:25.382944+00:00'
+    status: resolved
+  - ats_slug: leboncoin
+    ats_type: smartrecruiters
+    country: FR
+    domain: leboncoin.fr
+    name: leboncoin
+    resolved_at: '2026-09-14T10:21:00.745472+00:00'
+    status: resolved
+  - ats_slug: ankorstore
+    ats_type: ashby
+    country: FR
+    domain: ankorstore.com
+    name: Ankorstore
+    resolved_at: '2026-09-14T10:09:14.774045+00:00'
+    status: resolved
+  - ats_slug: mirakl
+    ats_type: greenhouse
+    country: FR
+    domain: mirakl.com
+    name: Mirakl
+    resolved_at: '2026-09-14T10:07:19.063892+00:00'
+    status: resolved
+  - ats_slug: contentsquare
+    ats_type: lever
+    country: FR
+    domain: contentsquare.com
+    name: Contentsquare
+    resolved_at: '2026-09-14T10:08:25.533277+00:00'
+    status: resolved
+  - ats_slug: algolia
+    ats_type: greenhouse
+    country: FR
+    domain: algolia.com
+    name: Algolia
+    resolved_at: '2026-09-14T10:07:19.285832+00:00'
+    status: resolved
+  - ats_slug: datadome
+    ats_type: smartrecruiters
+    country: FR
+    domain: datadome.co
+    name: Datadome
+    resolved_at: '2026-09-14T10:21:00.808374+00:00'
+    status: resolved
+  - ats_slug: aircall
+    ats_type: lever
+    country: FR
+    domain: aircall.io
+    name: Aircall
+    resolved_at: '2026-09-14T10:08:26.856094+00:00'
+    status: resolved
+  - ats_slug: front
+    ats_type: workable
+    country: FR
+    domain: front.com
+    name: Front
+    resolved_at: '2026-09-14T10:09:55.795086+00:00'
+    status: resolved
+  - ats_slug: pigment
+    ats_type: lever
+    country: FR
+    domain: pigment.com
+    name: Pigment
+    resolved_at: '2026-09-14T10:08:27.104711+00:00'
+    status: resolved
+  - ats_slug: 360learning
+    ats_type: lever
+    country: FR
+    domain: 360learning.com
+    name: 360Learning
+    resolved_at: '2026-09-14T10:08:27.187395+00:00'
+    status: resolved
+  - ats_slug: yousign
+    ats_type: workable
+    country: FR
+    domain: yousign.com
+    name: Yousign
+    resolved_at: '2026-09-14T10:09:56.237450+00:00'
+    status: resolved
+  - ats_slug: partoo
+    ats_type: workable
+    country: FR
+    domain: partoo.co
+    name: Partoo
+    resolved_at: '2026-09-14T10:09:56.566079+00:00'
+    status: resolved
+  - ats_slug: malt
+    ats_type: lever
+    country: FR
+    domain: malt.com
+    name: Malt
+    resolved_at: '2026-09-14T10:08:28.063618+00:00'
+    status: resolved
+  - ats_slug: welcometothejungle
+    ats_type: smartrecruiters
+    country: FR
+    domain: welcometothejungle.com
+    name: Welcome to the Jungle
+    resolved_at: '2026-09-14T10:21:01.806850+00:00'
+    status: resolved
+  - ats_slug: ivalua
+    ats_type: greenhouse
+    country: FR
+    domain: ivalua.com
+    name: Ivalua
+    resolved_at: '2026-09-14T10:07:21.584975+00:00'
+    status: resolved
+  - ats_slug: voodoo
+    ats_type: ashby
+    country: FR
+    domain: voodoo.io
+    name: Voodoo
+    resolved_at: '2026-09-14T10:09:15.963257+00:00'
+    status: resolved
+  - ats_slug: jellysmack
+    ats_type: workable
+    country: FR
+    domain: jellysmack.com
+    name: Jellysmack
+    resolved_at: '2026-09-14T10:09:56.758606+00:00'
+    status: resolved
+  - ats_slug: deezer
+    ats_type: workable
+    country: FR
+    domain: deezer.com
+    name: Deezer
+    resolved_at: '2026-09-14T10:09:56.874586+00:00'
+    status: resolved
+  - ats_slug: dailymotion
+    ats_type: workable
+    country: FR
+    domain: dailymotion.com
+    name: Dailymotion
+    resolved_at: '2026-09-14T10:09:59.030957+00:00'
+    status: resolved
+  - ats_slug: believe
+    ats_type: workable
+    country: FR
+    domain: believe.com
+    name: Believe
+    resolved_at: '2026-09-14T10:09:57.362021+00:00'
+    status: resolved
+  - ats_slug: criteo
+    ats_type: workable
+    country: FR
+    domain: criteo.com
+    name: Criteo
+    resolved_at: '2026-09-14T10:09:57.710501+00:00'
+    status: resolved
+  - ats_slug: dataiku
+    ats_type: greenhouse
+    country: FR
+    domain: dataiku.com
+    name: Dataiku
+    resolved_at: '2026-09-14T10:07:23.665980+00:00'
+    status: resolved
+  - ats_slug: saagie
+    ats_type: smartrecruiters
+    country: FR
+    domain: saagie.com
+    name: Saagie
+    resolved_at: '2026-09-14T10:21:01.861182+00:00'
+    status: resolved
+  - ats_slug: ovhcloud
+    ats_type: workable
+    country: FR
+    domain: ovhcloud.com
+    name: OVHcloud
+    resolved_at: '2026-09-14T10:09:58.021143+00:00'
+    status: resolved
+  - ats_slug: scaleway
+    ats_type: lever
+    country: FR
+    domain: scaleway.com
+    name: Scaleway
+    resolved_at: '2026-09-14T10:08:30.752766+00:00'
+    status: resolved
+  - ats_slug: clever-cloud
+    ats_type: smartrecruiters
+    country: FR
+    domain: clever-cloud.com
+    name: Clever Cloud
+    resolved_at: '2026-09-14T10:21:02.865500+00:00'
+    status: resolved
+  - ats_slug: ubisoft
+    ats_type: workable
+    country: FR
+    domain: ubisoft.com
+    name: Ubisoft
+    resolved_at: '2026-09-14T10:09:58.507565+00:00'
+    status: resolved
